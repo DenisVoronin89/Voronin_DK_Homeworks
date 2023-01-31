@@ -10,12 +10,13 @@ class Plane(Vehicle):
     cargo = 0
     max_cargo: int
 
-    def __init__(self, max_cargo, *args, **kwargs):
-        super().__init__(*args, **kwargs)
+    def __init__(self, weight, fuel, fuel_consuption, max_cargo):
+        super().__init__(weight, fuel, fuel_consuption)
         self.max_cargo = max_cargo
+        self.cargo = 0
 
 
-    def load_cargo(self, add_cargo: int, *args, **kwargs):  # check the max load capacity
+    def load_cargo(self, add_cargo: int):  # check the max load capacity
         new_cargo = self.cargo + add_cargo
         if new_cargo <= self.max_cargo:
             self.cargo = new_cargo
