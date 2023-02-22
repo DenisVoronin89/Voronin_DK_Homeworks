@@ -1,6 +1,14 @@
 import json
 
 from fastapi import FastAPI, Response, status
+from fastapi.responses import HTMLResponse
+
+from views.items import router as items_router
+from views.users import router as users_router
+
+app = FastAPI()
+app.include_router(items_router)
+app.include_router(users_router)
 
 
 @app.get("/")
