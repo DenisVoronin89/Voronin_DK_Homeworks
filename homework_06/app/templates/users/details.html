@@ -1,0 +1,56 @@
+{% extends 'users/users-base.html' %}
+
+{% block title %}
+   <h1 class="text-primary">
+   User #{{ user.id }} Detail
+   </h1>
+{% endblock %}
+
+{% block body %}
+  <h2 class="text-primary">User #{{ user.id }} Detail</h2>
+  <h3 class="user text-primary">Name: {{ user.name }}</h3>
+  <h4 class="user text-primary">Short description: {{ user.short_description }}</h4>
+  <div class="my-3 text-primary">
+
+    {#    <a class="btn btn-sm btn-danger"#}
+    {#       href="{{ url_for('users_app.delete', user_id=user.id) }}">#}
+    {#      Delete user#}
+    {#    </a>#}
+
+    <!-- Button trigger modal -->
+    <button type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#modal-delete-user">
+      Delete user
+    </button>
+
+    <!-- Modal -->
+    <div class="modal fade" id="modal-delete-user" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h1 class="modal-title fs-5" id="exampleModalLabel">Delete user #{{ user.id }}</h1>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <h3>Are you sure you want to delete this user: {{ user.name }}?</h3>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+
+            <form
+              method="post"
+              action="{{ url_for('users_app.delete', user_id=user.id) }}"
+            >
+              <button type="submit" class="btn btn-danger">Delete</button>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+  <div>
+    <a href="{{ url_for('users_app.list') }}">
+      Back to users list
+    </a>
+  </div>
+{% endblock %}
