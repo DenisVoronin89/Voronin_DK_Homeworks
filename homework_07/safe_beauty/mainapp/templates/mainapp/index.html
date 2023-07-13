@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ingredients List</title>
+</head>
+<body>
+    <h1>Ingredients List</h1>
+    <ul>
+        {% for ingredient in ingredients %}
+        <li>
+            {{ ingredient.name }}
+            <ul>
+                {% for source in sources %}
+                {% if source.ingredient == ingredient %}
+                <li><a href="{{ source.link }}">{{ source.name }}</a></li>
+                {% endif %}
+                {% endfor %}
+            </ul>
+        </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
