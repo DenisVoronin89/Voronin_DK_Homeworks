@@ -1,0 +1,65 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{% block title %}Safe beauty{% endblock %}</title>
+
+    <link rel="stylesheet" href="{% static "css/bootstrap.min.css" %}" type="text/css">
+
+    <style>
+        body {
+            background-color: #5c6ac4; /* $indigo-500 */
+        }
+        .navbar {
+            background-color: #303f9f; /* $indigo-700 */
+        }
+        .navbar .nav-link {
+            color: #ffffff; /* white text color for nav links */
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light">
+        <div class="container">
+            <a class="navbar-brand" href="{% url 'home' %}">Home</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav mr-auto"> <!-- Changed ml-auto to mr-auto -->
+                    <li class="nav-item">
+                        <a class="nav-link" href="{% url 'ingredient_list' %}">All Ingredients</a>
+                    </li>
+                </ul>
+                <!-- New search form -->
+                <form class="d-flex">
+                    <input class="form-control me-2 search-login-btn" name="search" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-success search-login-btn" type="submit">Search</button>
+                </form>
+                <!-- End of search form -->
+
+            </div>
+        </div>
+    </nav>
+
+    <div class="container mt-4">
+        {% block content %}
+        {% endblock %}
+    </div>
+
+    <!-- Add Bootstrap JS links -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+            integrity="sha384-DziyN1aI5p6G2b6Cc7kxNl3ibnwO1/5O5O0pXGxjB12Uz4P5LkNqXn2o+u50UWs4"
+            crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"
+            integrity="sha384-+MpRoHn/+hZXYOF49DEb3wHesm36b88yoMcuPfTXcTJv2ZXi6X0oeQTqUpN3mBD3"
+            crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+            integrity="sha384-B4gt1PbEqrTk8J6RsUpK6y6SA7uO7bDzjG1i2m2XuCGCp6Rjw5tQ4b1DOvmuu8y8"
+            crossorigin="anonymous"></script>
+</body>
+<footer class="text-center text-white bg-dark py-2 fixed-bottom">
+    SAFE BEAUTY PROJECT &copy; Developed & designed by Voronin D.
+</footer>
+</html>
