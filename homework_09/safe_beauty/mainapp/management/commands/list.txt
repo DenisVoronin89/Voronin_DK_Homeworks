@@ -1,0 +1,3934 @@
+[
+  {
+    "ingredient": {
+      "cas_number": "7664-41-7",
+      "created_at": "2013-02-27T01:25:37-05:00",
+      "id": 1,
+      "inci_name": "",
+      "more_info": "",
+      "name": "FORMALDEHYDE RELEASING AGENTS",
+      "organic": false,
+      "pubmed_count": 0,
+      "pubmed_term": "SODIUM HYDROXYMETHYLGLYCINATE",
+      "updated_at": "2020-08-06T14:19:39-04:00",
+      "ingredient_alias_names": [
+        "4-METHYLENEDIOXYANILINE HCL",
+        "DMDM",
+        "DMDM HYDANTOIN",
+        "DMDM ​​HYDANTOIN",
+        "DMDM HYDANTOIN.",
+        "FORMALDEHYDE RELEASER",
+        "FORMALDEHYDE RELEASING AGENTS",
+        "GLYCINE, N- (HYDROXYMETHYL) -, MONOSODIUM SALT",
+        "GLYCINE, N- (HYDROXYMETHYL) -, SODIUM SALT",
+        "HYDANTOIN",
+        "HYDROXYMETHYLAMINOACETIC ACID",
+        "METHENAMINE",
+        "METHYL ALDEHYDE",
+        "METHYL ALDEHYDE METHYLENE OXIDE",
+        "METHYLENE",
+        "METHYLENE BIS-BENZOTRIAZOLYL TETRAMETHYLBUTYLPHENOL",
+        "METHYLENE BIS-BENZOTRIAZOLYLTETRAMETHYLBUTYLPHENOL (TINOSORB M)",
+        "METHYLENE DI-T-BUTYLCRESOL",
+        "METHYLENE OXID ",
+        "N- (HYDROXYMETHYL) GLYCINE, SODIUM SALT",
+        "N- (HYDROXYMETHYL) - MONOSODIUM SALT GLYCINE",
+        "N- (HYDROXYMETHYL) – SODIUM SALT GLYCINE",
+        "POLYOXYMETHYLENE UREA",
+        "SODIUM N - (HYDROXYMETHYL) GLYCINATE",
+        "SODIUM SALT GLYCINE, N - (HYDROXYMETHYL) -",
+        "SODIUM SALT N - (HYDROXYMETHYL) GLYCINE"
+      ],
+      "usage": "These ingredients are typically used as preservatives in a wide range of cosmetics. Though usually not specified as containing formaldehyde, these ingredients release formaldehyde as a result of chemical decomposition. \r\n",
+      "explanation": "Formaldehyde is considered a known Group 1 Carcinogen by the International Agency for Research on Cancer (IARC), meaning it causes cancer in humans.\r\n\r\nDMDM Hydantoin is an example of a formaldehyde releaser, which means that the substance can \r\nrelease formaldehyde molecules continuously over time, leading to exposure through inhalation or skin absorption. In addition to it's carcinogenicity, formaldehyde is a harmful allergen that can cause contact dermatitis, and less severe allergic reactions. In most cases, ingredient lists do not indicate any formaldehyde-releasing potential. Other formaldehyde releasers include methenamine, quaternium-15, imidazolidinyl urea, diazolidinyl urea, 5-bromo-5-nitro-1,3 dioxane and hydroxymethylglycinate. ",
+      "notes": "Marked as a high-priority chemical - Sephora to reduce the number of products containing any of their high priority chemicals by 50% in 3 years \r\nhttps://www.sephorastands.com/wp-content/uploads/Sephora-Public-Chemicals-Policy-2019.pdf\r\n\r\nhttp://www.paiskincare.com/blog/2009/01/18/what-is-sodium-hydroxymethylglycinate/\r\n\r\nhttp://monographs.iarc.fr/ENG/Classification/ClassificationsCASOrder.pdf\r\n\r\nhttp://www.yummymummyclub.ca/blogs/dan-thompson-beauty-busted/20120911/ingredient-watch-sodium-hydroxymethylglycinate\r\n\r\nhttp://www.ncbi.nlm.nih.gov/pubmed/17498414\r\n\r\nhttp://journals.lww.com/jdnaonline/Citation/2009/05000/Formaldehyde_Releasing_Preservative_in_Baby_and.10.aspx\r\n\r\nhttp://www.skinandaging.com/content/environmental-exposures-%E2%80%94-a-pediatric-perspective-on-allergic-contact-dermatitis\r\n\r\nhttp://www.nicnas.gov.au/__data/assets/pdf_file/0006/4389/PEC_28_Formaldehyde_Full_Report_PDF.pdf\r\n\r\nhttp://www.the-dermatologist.com/content/review-acds%E2%80%99-allergen-od-year-2000-2015\r\n\r\nhttp://onlinelibrary.wiley.com/doi/10.1111/cod.12172/abstract",
+      "hazards": [
+        {
+          "benefit": false,
+          "created_at": "2013-05-01T00:11:27-04:00",
+          "id": 26,
+          "name": "Skin irritation",
+          "rating": 3,
+          "short_name": "SI",
+          "updated_at": "2013-05-01T00:11:27-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-06-24T20:25:25-04:00",
+          "id": 94,
+          "name": "Respiratory and skin irritation",
+          "rating": 4,
+          "short_name": "Respiratory and skin irritation",
+          "updated_at": "2018-04-19T13:33:40-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2013-08-22T12:42:18-04:00",
+          "id": 41,
+          "name": "Possible Carcinogen",
+          "rating": 8,
+          "short_name": "PC",
+          "updated_at": "2018-04-21T18:46:16-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2013-08-17T02:36:11-04:00",
+          "id": 34,
+          "name": "Mild Irritations when contact with Eyes",
+          "rating": 1,
+          "short_name": "MI",
+          "updated_at": "2014-10-21T09:35:33-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-09-30T12:10:42-04:00",
+          "id": 117,
+          "name": "Mild irritation, itchiness, redness when contact with eyes and skin for some sensitive individuals",
+          "rating": 2,
+          "short_name": "mild effect for some individual",
+          "updated_at": "2015-01-12T20:23:02-05:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2013-11-26T21:10:36-05:00",
+          "id": 53,
+          "name": "May triggers Eczema",
+          "rating": 3,
+          "short_name": "May triggers Eczema",
+          "updated_at": "2018-04-19T13:31:11-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-03-09T21:13:30-04:00",
+          "id": 61,
+          "name": "Low Possible Carcinogen",
+          "rating": 5,
+          "short_name": "Low Possible Carcinogen",
+          "updated_at": "2014-08-27T01:26:55-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2017-03-28T22:35:41-04:00",
+          "id": 167,
+          "name": "Avoid Oral Use",
+          "rating": 3,
+          "short_name": "",
+          "updated_at": "2017-03-28T22:35:53-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2017-08-02T12:52:26-04:00",
+          "id": 168,
+          "name": "Avoid Ingestion ",
+          "rating": 2,
+          "short_name": "",
+          "updated_at": "2017-08-02T12:52:26-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2013-02-27T01:38:41-05:00",
+          "id": 11,
+          "name": "Allergy",
+          "rating": 3,
+          "short_name": "AG",
+          "updated_at": "2018-04-19T13:32:01-04:00"
+        }
+      ],
+      "warning_agencies": [
+        {
+          "created_at": "2013-02-27T01:40:25-05:00",
+          "id": 1,
+          "jurisdiction": "Canada",
+          "link": "https://www.canada.ca/en/health-canada/services/consumer-product-safety/cosmetics/cosmetic-ingredient-hotlist-prohibited-restricted-ingredients/hotlist.html",
+          "name": "Health Canada Hot list - The Hotlist is used to keep the cosmetic industry aware of substances that are restricted or prohibited in cosmetics. It has no legal authority and cannot be enforced.",
+          "short_name": "CHL",
+          "updated_at": "2018-04-21T18:50:15-04:00"
+        },
+        {
+          "created_at": "2013-02-27T01:40:48-05:00",
+          "id": 3,
+          "jurisdiction": "Canada",
+          "link": "",
+          "name": "Ten Carcinogens in Toronto",
+          "short_name": "Toronto Ten",
+          "updated_at": "2013-09-09T06:33:38-04:00"
+        },
+        {
+          "created_at": "2014-03-09T20:53:15-04:00",
+          "id": 63,
+          "jurisdiction": "International",
+          "link": "http://monographs.iarc.fr/ENG/Classification/ClassificationsCASOrder.pdf",
+          "name": "IARC on Formaldehyde ",
+          "short_name": "IARC on Formaldehyde ",
+          "updated_at": "2014-03-09T20:53:15-04:00"
+        },
+        {
+          "created_at": "2014-04-12T18:56:16-04:00",
+          "id": 80,
+          "jurisdiction": "US",
+          "link": "http://www.cancer.gov/cancertopics/factsheet/Risk/formaldehyde",
+          "name": "National Cancer Institute: Formaldehyde and Cancer Risk",
+          "short_name": "National Cancer Institute: Formaldehyde and Cancer Risk",
+          "updated_at": "2014-04-12T18:56:16-04:00"
+        },
+        {
+          "created_at": "2020-02-26T14:22:33-05:00",
+          "id": 138,
+          "jurisdiction": "California, US",
+          "link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB495",
+          "name": "California Aseembly Bill 145 Restricted Chemical",
+          "short_name": "California Aseembly Bill 145 Restricted Chemical",
+          "updated_at": "2020-02-26T14:22:33-05:00"
+        }
+      ],
+      "sources": [
+        {
+          "created_at": "2014-04-17T23:44:57-04:00",
+          "id": 133,
+          "link": "http://www.nicnas.gov.au/__data/assets/pdf_file/0006/4389/PEC_28_Formaldehyde_Full_Report_PDF.pdf",
+          "name": "Australian Government Department of Health and Ageing. Priority Existing Chemical Assessment Report No. 28: Formaldehyde. November 2006. Page 68.",
+          "short_name": "Australian Government Department of Health and Ageing. Priority Existing Chemical Assessment Report No. 28: Formaldehyde. November 2006. Page 68.",
+          "updated_at": "2014-04-17T23:44:57-04:00"
+        },
+        {
+          "created_at": "2014-04-17T21:54:22-04:00",
+          "id": 128,
+          "link": "http://www.ncbi.nlm.nih.gov/pubmed/17498414",
+          "name": "Dermatitis. 2007 Jun;18(2):92-5. Patch-test reactions to formaldehydes, bioban, and other formaldehyde releasers.",
+          "short_name": "Dermatitis. 2007 Jun;18(2):92-5. Patch-test reactions to formaldehydes, bioban, and other formaldehyde releasers.",
+          "updated_at": "2014-04-17T21:54:22-04:00"
+        },
+        {
+          "created_at": "2015-08-03T15:17:53-04:00",
+          "id": 1243,
+          "link": "http://onlinelibrary.wiley.com/doi/10.1111/cod.12172/abstract",
+          "name": "Friis UF, Dahlin J, Bruze M, Menné T, Johansen JD. Hidden exposure to formaldehyde in a swab caused allergic contact dermatitis. Contact Dermatitis. 2014;70(4):258-260. ",
+          "short_name": "Friis UF - Formaldehyde",
+          "updated_at": "2015-08-03T15:17:53-04:00"
+        },
+        {
+          "created_at": "2014-04-17T22:29:22-04:00",
+          "id": 131,
+          "link": "http://www.skinandaging.com/content/environmental-exposures-%E2%80%94-a-pediatric-perspective-on-allergic-contact-dermatitis",
+          "name": "Jacob, Sharon E.; Breithaupt, Andrew (2009). Environmental exposures, a pediatric perspective on allergic contact dermatitis. Skin & Aging, July 2009.",
+          "short_name": "Jacob, Sharon E.; Breithaupt, Andrew (2009). Environmental exposures, a pediatric perspective on allergic contact dermatitis. Skin & Aging, July 2009.",
+          "updated_at": "2014-04-17T22:29:22-04:00"
+        },
+        {
+          "created_at": "2014-04-17T22:28:24-04:00",
+          "id": 130,
+          "link": "http://www.niehs.nih.gov/news/newsletter/2009/december/spotlight-expert.cfm",
+          "name": "Mackar, Robin. Expert Panel Recommends Listing Formaldehyde as Known Human Carcinogen. Environmental Factor, December 2009.",
+          "short_name": "Mackar, Robin. Expert Panel Recommends Listing Formaldehyde as Known Human Carcinogen. Environmental Factor, December 2009.",
+          "updated_at": "2014-04-17T22:28:24-04:00"
+        },
+        {
+          "created_at": "2014-04-03T13:45:50-04:00",
+          "id": 89,
+          "link": "http://www.cancer.gov/cancertopics/factsheet/Risk/formaldehyde",
+          "name": "National Cancer Institute Formaldehyde and Cancer Risk",
+          "short_name": "National Cancer Institute Formaldehyde and Cancer Risk",
+          "updated_at": "2014-04-03T13:45:50-04:00"
+        },
+        {
+          "created_at": "2013-11-26T21:11:03-05:00",
+          "id": 55,
+          "link": "http://www.nationaleczema.org/education-resource-center/skin-care-guide-ingredients-avoid",
+          "name": "National Eczema Association",
+          "short_name": "NEA",
+          "updated_at": "2013-11-26T21:11:03-05:00"
+        },
+        {
+          "created_at": "2014-04-17T22:27:11-04:00",
+          "id": 129,
+          "link": "http://www.niehs.nih.gov/news/newsroom/releases/2011/june10/",
+          "name": "National Institute of Environmental Health Science: New Substances Added to HHS Report on Carcinogens",
+          "short_name": "National Institute of Environmental Health Science: New Substances Added to HHS Report on Carcinogens",
+          "updated_at": "2014-04-17T22:27:11-04:00"
+        },
+        {
+          "created_at": "2013-03-05T02:06:26-05:00",
+          "id": 9,
+          "link": null,
+          "name": "PubMed Studies",
+          "short_name": "PM",
+          "updated_at": "2013-03-05T02:06:26-05:00"
+        },
+        {
+          "created_at": "2020-07-27T13:39:35-04:00",
+          "id": 3593,
+          "link": "https://www.sephorastands.com/wp-content/uploads/Sephora-Public-Chemicals-Policy-2019.pdf",
+          "name": "Sephora Safer Chemical Policy - High-Priority Chemicals ",
+          "short_name": "Sephora High-Priority Chemicals ",
+          "updated_at": "2020-07-27T13:39:35-04:00"
+        },
+        {
+          "created_at": "2015-08-03T15:15:47-04:00",
+          "id": 1242,
+          "link": "http://www.the-dermatologist.com/content/review-acds%E2%80%99-allergen-od-year-2000-2015",
+          "name": "The Dermatologist - Allergens of the Year 2010 - 2015",
+          "short_name": "The Dermatologist - Allergens of the Year 2010 - 2015",
+          "updated_at": "2015-08-03T15:15:47-04:00"
+        },
+        {
+          "created_at": "2014-07-09T14:33:47-04:00",
+          "id": 235,
+          "link": "https://www.wholefoodsmarket.com/premium-body-care-unacceptable-ingredients",
+          "name": "Whole Foods Market Premium Body Care Standards Unacceptable Ingredients",
+          "short_name": "Whole Foods Market Premium Body Care Standards Unacceptable Ingredients",
+          "updated_at": "2018-05-09T11:13:48-04:00"
+        }
+      ]
+    }
+  },
+  {
+    "ingredient": {
+      "cas_number": "106-99-0",
+      "created_at": "2013-03-03T00:59:18-05:00",
+      "id": 2,
+      "inci_name": "",
+      "more_info": null,
+      "name": "1,3-BUTADIENE",
+      "organic": false,
+      "pubmed_count": 0,
+      "pubmed_term": "1,3-BUTADIENE",
+      "updated_at": "2018-02-26T14:50:57-05:00",
+      "ingredient_alias_names": [
+        "1,3-BUTADIENE",
+        "1,3-BUTADIENE-STYRENE COPOLYMER",
+        "1,3-BUTADIENE-STYRENE POLYMER",
+        "8000A",
+        "AFCOLAC B 101",
+        "ANDREZ",
+        "BASE 661",
+        "BENZENE, ETHENYL, POLYMER WITH 1,3BUTADIENE",
+        "BIETHYLENE",
+        "BUTADIENE",
+        "DIVINYL",
+        "ERYTHRENE",
+        "ETHENYL- POLYMER WITH 1,3- BUTADIENE BENZENE",
+        "POLYMER WITH 1,3- BUTADIENE",
+        "POLYMER WITH 1,3- BUTADIENE BENZENE, ETHENYL-",
+        "STYRENE, 1,3-BUTADIENE POLYMER ",
+        "STYRENE BUTADIENE COPOLYMER",
+        "STYRENE/BUTADIENE COPOLYMER",
+        "VINYLETHYLENE"
+      ],
+      "usage": "May be a contaminant in isobutane, found in shaving cream, hair mousse, hair styling gels, and some high-SPF sunscreens",
+      "explanation": "",
+      "notes": "\r\n\r\nFound on report\r\nhttp://ntp.niehs.nih.gov/ntp/roc/twelfth/profiles/butadiene.pdf\r\n\r\nalso this:\r\n\r\nhttp://www.cdph.ca.gov/programs/cosmetics/Documents/chemlist.pdf",
+      "hazards": [
+        {
+          "benefit": false,
+          "created_at": "2014-12-29T12:03:31-05:00",
+          "id": 143,
+          "name": "Toxic to aquatic organisms",
+          "rating": 2,
+          "short_name": "ecotoxic",
+          "updated_at": "2015-01-25T21:46:00-05:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2015-07-15T14:37:08-04:00",
+          "id": 150,
+          "name": "Pregnant Women Use with Precaution",
+          "rating": 4,
+          "short_name": "Pregnant Women Use with Precaution",
+          "updated_at": "2019-12-18T11:55:39-05:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2013-08-22T12:42:18-04:00",
+          "id": 41,
+          "name": "Possible Carcinogen",
+          "rating": 8,
+          "short_name": "PC",
+          "updated_at": "2018-04-21T18:46:16-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-06-24T20:27:15-04:00",
+          "id": 95,
+          "name": "Low possible damaging fertility",
+          "rating": 5,
+          "short_name": "Low possible damaging fertility",
+          "updated_at": "2014-12-11T16:55:19-05:00"
+        }
+      ],
+      "warning_agencies": [
+        {
+          "created_at": "2013-02-27T01:40:25-05:00",
+          "id": 1,
+          "jurisdiction": "Canada",
+          "link": "https://www.canada.ca/en/health-canada/services/consumer-product-safety/cosmetics/cosmetic-ingredient-hotlist-prohibited-restricted-ingredients/hotlist.html",
+          "name": "Health Canada Hot list - The Hotlist is used to keep the cosmetic industry aware of substances that are restricted or prohibited in cosmetics. It has no legal authority and cannot be enforced.",
+          "short_name": "CHL",
+          "updated_at": "2018-04-21T18:50:15-04:00"
+        },
+        {
+          "created_at": "2013-03-31T12:25:58-04:00",
+          "id": 6,
+          "jurisdiction": "California, US",
+          "link": "http://oehha.ca.gov/prop65/prop65_list/files/P65single040414.pdf",
+          "name": "Proposition 65 The Safe Drinking Water and Toxic Enforcement Act of 1986",
+          "short_name": "P65",
+          "updated_at": "2014-04-11T22:41:49-04:00"
+        },
+        {
+          "created_at": "2013-06-03T20:17:43-04:00",
+          "id": 24,
+          "jurisdiction": "US",
+          "link": null,
+          "name": "California Department Of Public Health  Occupational Health Branch California Safe Cosmetics Program",
+          "short_name": "CSCP",
+          "updated_at": "2013-06-03T20:18:17-04:00"
+        },
+        {
+          "created_at": "2013-08-22T12:43:41-04:00",
+          "id": 31,
+          "jurisdiction": "US",
+          "link": null,
+          "name": "California Environmental Protection Agency",
+          "short_name": "CEPA",
+          "updated_at": "2013-08-22T12:43:41-04:00"
+        },
+        {
+          "created_at": "2013-03-31T17:34:49-04:00",
+          "id": 12,
+          "jurisdiction": "US",
+          "link": "http://ntp.niehs.nih.gov/",
+          "name": "National Toxicology Program",
+          "short_name": "NTP",
+          "updated_at": "2014-04-12T18:54:21-04:00"
+        }
+      ],
+      "sources": [
+        {
+          "created_at": "2014-04-17T23:55:00-04:00",
+          "id": 137,
+          "link": "http://www.cdph.ca.gov/programs/cosmetics/documents/chemlist.pdf",
+          "name": "California Department Of Public Health Occupational Health Branch California Safe Cosmetics Program Chemicals Known Or Suspected To Cause  Cancer Or Reproductive Toxicity",
+          "short_name": "California Department Of Public Health Occupational Health Branch California Safe Cosmetics Program Chemicals Known Or Suspected To Cause  Cancer Or Reproductive Toxicity",
+          "updated_at": "2014-04-17T23:58:59-04:00"
+        },
+        {
+          "created_at": "2014-04-17T23:52:56-04:00",
+          "id": 136,
+          "link": "http://ntp.niehs.nih.gov/ntp/roc/twelfth/profiles/butadiene.pdf",
+          "name": "National Toxicology Program Report on Carcinogens, Twelfth Edition on 1,3-Butadiene",
+          "short_name": "National Toxicology Program Report on Carcinogens, Twelfth Edition on 1,3-Butadiene",
+          "updated_at": "2014-04-17T23:52:56-04:00"
+        }
+      ]
+    }
+  },
+  {
+    "ingredient": {
+      "cas_number": "123-91-1 ",
+      "created_at": "2013-03-03T01:02:27-05:00",
+      "id": 3,
+      "inci_name": "",
+      "more_info": null,
+      "name": "1,4 DIOXANE",
+      "organic": false,
+      "pubmed_count": 0,
+      "pubmed_term": "1,4 DIOXANE",
+      "updated_at": "2018-02-26T15:07:24-05:00",
+      "ingredient_alias_names": [
+        "1,4-DIETHYLENE DIOXIDE",
+        "1,4-DIOXACYCLOHEXANE",
+        "DIETHYLENE DIOXIDE",
+        "DIETHYLENE DIOXIDE (OSHA) ",
+        "DIETHYLENE ETHER",
+        "DIETHYLENE OXIDE",
+        "DIOKSAN (POLISH) ",
+        "DIOSSANO-1,4 (ITALIAN) ",
+        "DIOXAAN-1,4 (DUTCH) ",
+        "DIOXAN",
+        "DIOXANE",
+        "P-DIOXANE"
+      ],
+      "usage": "1,4-Dioxane is a trace contaminant of some chemicals used in cosmetics, detergents, and shampoos. Manufacturers now reduce 1,4-dioxane from these chemicals to low levels before these chemicals are made into products used in the home. Your skin may come into contact with 1,4-dioxane when you use cosmetics, detergents, and shampoos containing 1,4-dioxane. During 1992–1997, the average concentration of 1,4-dioxane in some cosmetic products reportedly ranged from 14 to 79 mg/kg. In a more recent survey reported by the Campaign for Safe Cosmetics, the levels of 1,4-dioxane in cosmetic products were found to be lower (1.5–12 ppm in baby and children’s products and 2–23 ppm in adult products) than in the survey done by the FDA in the 1990s.",
+      "explanation": "",
+      "notes": "http://www.ewg.org/skindeep/ingredient/726331/1,4-DIOXANE/\r\n\r\nhttp://www.safecosmeticsact.org/search/chemical-profile.aspx\r\n\r\nhttp://ntp.niehs.nih.gov/ntp/roc/twelfth/profiles/dioxane.pdf\r\n\r\nhttp://www.cdph.ca.gov/programs/cosmetics/documents/chemlist.pdf\r\n\r\nWilbur S, Jones D, Risher JF, et al. Atlanta (GA): Agency for Toxic Substances and Disease Registry (US); 2012 Apr.  Toxicological Profile for 1,4-Dioxane.\r\n\r\nhttp://www.ncbi.nlm.nih.gov/books/NBK153666/",
+      "hazards": [
+        {
+          "benefit": false,
+          "created_at": "2013-05-01T00:11:27-04:00",
+          "id": 26,
+          "name": "Skin irritation",
+          "rating": 3,
+          "short_name": "SI",
+          "updated_at": "2013-05-01T00:11:27-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-06-24T20:25:25-04:00",
+          "id": 94,
+          "name": "Respiratory and skin irritation",
+          "rating": 4,
+          "short_name": "Respiratory and skin irritation",
+          "updated_at": "2018-04-19T13:33:40-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2013-08-22T12:42:18-04:00",
+          "id": 41,
+          "name": "Possible Carcinogen",
+          "rating": 8,
+          "short_name": "PC",
+          "updated_at": "2018-04-21T18:46:16-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2013-04-07T10:53:44-04:00",
+          "id": 19,
+          "name": "Organ system toxicity",
+          "rating": 8,
+          "short_name": "OST",
+          "updated_at": "2013-04-07T10:53:44-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2013-08-17T02:36:11-04:00",
+          "id": 34,
+          "name": "Mild Irritations when contact with Eyes",
+          "rating": 1,
+          "short_name": "MI",
+          "updated_at": "2014-10-21T09:35:33-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-03-09T21:13:30-04:00",
+          "id": 61,
+          "name": "Low Possible Carcinogen",
+          "rating": 5,
+          "short_name": "Low Possible Carcinogen",
+          "updated_at": "2014-08-27T01:26:55-04:00"
+        }
+      ],
+      "warning_agencies": [
+        {
+          "created_at": "2013-02-27T01:40:25-05:00",
+          "id": 1,
+          "jurisdiction": "Canada",
+          "link": "https://www.canada.ca/en/health-canada/services/consumer-product-safety/cosmetics/cosmetic-ingredient-hotlist-prohibited-restricted-ingredients/hotlist.html",
+          "name": "Health Canada Hot list - The Hotlist is used to keep the cosmetic industry aware of substances that are restricted or prohibited in cosmetics. It has no legal authority and cannot be enforced.",
+          "short_name": "CHL",
+          "updated_at": "2018-04-21T18:50:15-04:00"
+        },
+        {
+          "created_at": "2013-03-31T17:34:49-04:00",
+          "id": 12,
+          "jurisdiction": "US",
+          "link": "http://ntp.niehs.nih.gov/",
+          "name": "National Toxicology Program",
+          "short_name": "NTP",
+          "updated_at": "2014-04-12T18:54:21-04:00"
+        },
+        {
+          "created_at": "2014-04-18T20:05:36-04:00",
+          "id": 87,
+          "jurisdiction": "US",
+          "link": "http://www.ncbi.nlm.nih.gov/books/NBK153665/",
+          "name": "Agency for Toxic Substances and Disease Registry (ATSDR) Toxicological Profiles",
+          "short_name": "Agency for Toxic Substances and Disease Registry (ATSDR) Toxicological Profiles",
+          "updated_at": "2014-04-18T20:05:36-04:00"
+        },
+        {
+          "created_at": "2013-03-31T12:25:58-04:00",
+          "id": 6,
+          "jurisdiction": "California, US",
+          "link": "http://oehha.ca.gov/prop65/prop65_list/files/P65single040414.pdf",
+          "name": "Proposition 65 The Safe Drinking Water and Toxic Enforcement Act of 1986",
+          "short_name": "P65",
+          "updated_at": "2014-04-11T22:41:49-04:00"
+        },
+        {
+          "created_at": "2013-03-31T17:34:01-04:00",
+          "id": 11,
+          "jurisdiction": "United Nation",
+          "link": "http://monographs.iarc.fr/ENG/Classification/ClassificationsGroupOrder.pdf",
+          "name": "International Agency for Research on Cancer",
+          "short_name": "IARC",
+          "updated_at": "2014-04-11T22:43:54-04:00"
+        },
+        {
+          "created_at": "2013-06-03T20:17:43-04:00",
+          "id": 24,
+          "jurisdiction": "US",
+          "link": null,
+          "name": "California Department Of Public Health  Occupational Health Branch California Safe Cosmetics Program",
+          "short_name": "CSCP",
+          "updated_at": "2013-06-03T20:18:17-04:00"
+        }
+      ],
+      "sources": [
+        {
+          "created_at": "2013-11-18T16:04:51-05:00",
+          "id": 44,
+          "link": "http://www.atsdr.cdc.gov/substances/toxsubstance.asp?toxid=199",
+          "name": "Agency for Toxic Substances and Disease Registry, Web Page on 1,4-Dioxane",
+          "short_name": "Agency for Toxic Substances and Disease Registry, Web Page on 1,4-Dioxane",
+          "updated_at": "2013-11-18T16:04:51-05:00"
+        },
+        {
+          "created_at": "2014-04-17T23:55:00-04:00",
+          "id": 137,
+          "link": "http://www.cdph.ca.gov/programs/cosmetics/documents/chemlist.pdf",
+          "name": "California Department Of Public Health Occupational Health Branch California Safe Cosmetics Program Chemicals Known Or Suspected To Cause  Cancer Or Reproductive Toxicity",
+          "short_name": "California Department Of Public Health Occupational Health Branch California Safe Cosmetics Program Chemicals Known Or Suspected To Cause  Cancer Or Reproductive Toxicity",
+          "updated_at": "2014-04-17T23:58:59-04:00"
+        },
+        {
+          "created_at": "2013-02-27T01:39:22-05:00",
+          "id": 2,
+          "link": "http://www.davidsuzuki.org/issues/health/science/toxics/dirty-dozen-cosmetic-chemicals/",
+          "name": "David Suzuki Foundation Dirty Dozen",
+          "short_name": "DSF",
+          "updated_at": "2014-03-07T20:38:31-05:00"
+        },
+        {
+          "created_at": "2013-10-14T15:46:57-04:00",
+          "id": 34,
+          "link": "http://en.wikipedia.org/wiki/List_of_IARC_Group_2B_carcinogens",
+          "name": "IARC Group 2B Carcinogen - Limited evidence in humans and less than sufficient evidence in animals ",
+          "short_name": "IARC Group 2B Carcinogen",
+          "updated_at": "2016-01-01T22:58:42-05:00"
+        },
+        {
+          "created_at": "2014-04-18T00:25:26-04:00",
+          "id": 138,
+          "link": "http://ntp.niehs.nih.gov/ntp/roc/twelfth/profiles/dioxane.pdf",
+          "name": "National Toxicology Program Report on Carcinogens, Twelfth Edition on 1,4-Dioxane",
+          "short_name": "National Toxicology Program Report on Carcinogens, Twelfth Edition on 1,4-Dioxane",
+          "updated_at": "2014-04-18T00:26:15-04:00"
+        },
+        {
+          "created_at": "2013-11-18T16:03:07-05:00",
+          "id": 43,
+          "link": "http://www.fda.gov/cosmetics/productandingredientsafety/potentialcontaminants/ucm101566.htm",
+          "name": "U.S. Food and Drug Administration, Web Page on 1,4-Dioxane ",
+          "short_name": "FDA 1,4-Dioxane",
+          "updated_at": "2013-11-18T16:03:07-05:00"
+        },
+        {
+          "created_at": "2014-04-18T20:04:20-04:00",
+          "id": 145,
+          "link": "http://www.ncbi.nlm.nih.gov/books/NBK153666/",
+          "name": "Wilbur S, Jones D, Risher JF, et al. Atlanta (GA): Agency for Toxic Substances and Disease Registry (US); 2012 Apr.  Toxicological Profile for 1,4-Dioxane.",
+          "short_name": "Wilbur S, Jones D, Risher JF, et al. Atlanta (GA): Agency for Toxic Substances and Disease Registry (US); 2012 Apr.  Toxicological Profile for 1,4-Dioxane.",
+          "updated_at": "2014-04-18T20:04:20-04:00"
+        }
+      ]
+    }
+  },
+  {
+    "ingredient": {
+      "cas_number": "25154-52-3",
+      "created_at": "2013-03-03T01:10:53-05:00",
+      "id": 4,
+      "inci_name": "",
+      "more_info": null,
+      "name": "ALKYLPHENOLS",
+      "organic": false,
+      "pubmed_count": 0,
+      "pubmed_term": "",
+      "updated_at": "2018-02-27T16:46:05-05:00",
+      "ingredient_alias_names": [
+        "PEARL EXTRACT"
+      ],
+      "usage": "Hair products, spermicides",
+      "explanation": "",
+      "notes": "",
+      "hazards": [
+        {
+          "benefit": false,
+          "created_at": "2013-08-22T12:42:18-04:00",
+          "id": 41,
+          "name": "Possible Carcinogen",
+          "rating": 8,
+          "short_name": "PC",
+          "updated_at": "2018-04-21T18:46:16-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2013-02-27T01:38:27-05:00",
+          "id": 9,
+          "name": "Hormone Disruptor",
+          "rating": 9,
+          "short_name": "HD",
+          "updated_at": "2013-03-31T17:38:43-04:00"
+        }
+      ],
+      "warning_agencies": [
+        {
+          "created_at": "2013-03-31T17:29:54-04:00",
+          "id": 8,
+          "jurisdiction": "California, US",
+          "link": "https://dtsc.ca.gov/PollutionPrevention/ToxicsInProducts/index.cfm",
+          "name": "California Dept Toxic Substance Control / National Toxicology Program",
+          "short_name": "CDTS",
+          "updated_at": "2014-04-12T18:52:36-04:00"
+        },
+        {
+          "created_at": "2013-02-27T01:40:25-05:00",
+          "id": 1,
+          "jurisdiction": "Canada",
+          "link": "https://www.canada.ca/en/health-canada/services/consumer-product-safety/cosmetics/cosmetic-ingredient-hotlist-prohibited-restricted-ingredients/hotlist.html",
+          "name": "Health Canada Hot list - The Hotlist is used to keep the cosmetic industry aware of substances that are restricted or prohibited in cosmetics. It has no legal authority and cannot be enforced.",
+          "short_name": "CHL",
+          "updated_at": "2018-04-21T18:50:15-04:00"
+        }
+      ],
+      "sources": [
+        {
+          "created_at": "2013-02-27T01:39:28-05:00",
+          "id": 3,
+          "link": null,
+          "name": "Breast Cancer Fund Chemicals Linked to Breast Cancer",
+          "short_name": "BCF",
+          "updated_at": "2013-03-03T01:03:08-05:00"
+        },
+        {
+          "created_at": "2013-05-03T22:37:05-04:00",
+          "id": 18,
+          "link": null,
+          "name": "International Agency for Research on Cancer",
+          "short_name": "IARC",
+          "updated_at": "2013-05-03T22:37:05-04:00"
+        },
+        {
+          "created_at": "2013-02-27T19:10:46-05:00",
+          "id": 7,
+          "link": null,
+          "name": "Women's Voice for the Earth",
+          "short_name": "WVE",
+          "updated_at": "2013-03-02T10:46:36-05:00"
+        }
+      ]
+    }
+  },
+  {
+    "ingredient": {
+      "cas_number": "84-69-5",
+      "created_at": "2013-03-03T01:18:48-05:00",
+      "id": 5,
+      "inci_name": "",
+      "more_info": null,
+      "name": "ARTIFICIAL MUSK",
+      "organic": false,
+      "pubmed_count": 0,
+      "pubmed_term": "",
+      "updated_at": "2015-09-08T21:55:00-04:00",
+      "ingredient_alias_names": [
+        "MUSK",
+        "POWDERY MUSK",
+        "SYNTHETIC MUSK"
+      ],
+      "usage": "Many different types of personal care products contain fragrance; make sure to check the ingredients of any strongly scented product.",
+      "explanation": "",
+      "notes": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1253742/",
+      "hazards": [
+        {
+          "benefit": false,
+          "created_at": "2014-07-31T23:40:48-04:00",
+          "id": 102,
+          "name": "Possible Organ System Toxicity",
+          "rating": 6,
+          "short_name": "Possible Organ System Toxicity",
+          "updated_at": "2014-08-30T23:19:37-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-04-17T00:45:44-04:00",
+          "id": 68,
+          "name": "Possible Endocrine Disruptor",
+          "rating": 4,
+          "short_name": "Possible Endocrine Disruptor",
+          "updated_at": "2015-05-15T11:28:28-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-05-14T14:16:48-04:00",
+          "id": 74,
+          "name": "Bioaccumulation",
+          "rating": 3,
+          "short_name": "Bioaccumulation",
+          "updated_at": "2015-02-06T14:45:25-05:00"
+        }
+      ],
+      "warning_agencies": [
+        {
+          "created_at": "2013-02-27T01:40:33-05:00",
+          "id": 2,
+          "jurisdiction": "EU",
+          "link": null,
+          "name": "Limit use by EU Coslng",
+          "short_name": "LEU",
+          "updated_at": "2013-04-26T11:27:18-04:00"
+        },
+        {
+          "created_at": "2013-02-27T01:40:25-05:00",
+          "id": 1,
+          "jurisdiction": "Canada",
+          "link": "https://www.canada.ca/en/health-canada/services/consumer-product-safety/cosmetics/cosmetic-ingredient-hotlist-prohibited-restricted-ingredients/hotlist.html",
+          "name": "Health Canada Hot list - The Hotlist is used to keep the cosmetic industry aware of substances that are restricted or prohibited in cosmetics. It has no legal authority and cannot be enforced.",
+          "short_name": "CHL",
+          "updated_at": "2018-04-21T18:50:15-04:00"
+        },
+        {
+          "created_at": "2013-03-31T17:29:27-04:00",
+          "id": 7,
+          "jurisdiction": "Canada",
+          "link": "http://www.ec.gc.ca/lcpe-cepa/eng/substance/chemicals_polymers.cfm",
+          "name": "Environment Canada Domestic Substance List",
+          "short_name": "ECDSL",
+          "updated_at": "2014-04-11T22:44:38-04:00"
+        },
+        {
+          "created_at": "2013-03-31T17:29:54-04:00",
+          "id": 8,
+          "jurisdiction": "California, US",
+          "link": "https://dtsc.ca.gov/PollutionPrevention/ToxicsInProducts/index.cfm",
+          "name": "California Dept Toxic Substance Control / National Toxicology Program",
+          "short_name": "CDTS",
+          "updated_at": "2014-04-12T18:52:36-04:00"
+        }
+      ],
+      "sources": [
+        {
+          "created_at": "2013-03-31T17:28:46-04:00",
+          "id": 13,
+          "link": null,
+          "name": "CHE Toxicant and Disease Database",
+          "short_name": "CHETDD",
+          "updated_at": "2013-03-31T17:28:46-04:00"
+        },
+        {
+          "created_at": "2013-02-27T01:39:22-05:00",
+          "id": 2,
+          "link": "http://www.davidsuzuki.org/issues/health/science/toxics/dirty-dozen-cosmetic-chemicals/",
+          "name": "David Suzuki Foundation Dirty Dozen",
+          "short_name": "DSF",
+          "updated_at": "2014-03-07T20:38:31-05:00"
+        },
+        {
+          "created_at": "2015-09-08T21:55:47-04:00",
+          "id": 1258,
+          "link": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1253742/",
+          "name": "Environ Health Perspect. 2005 Jan - A Whiff of Danger: Synthetic Musks May Encourage Toxic Bioaccumulation",
+          "short_name": "Environ Health Perspect. 2005 Jan",
+          "updated_at": "2015-09-08T21:55:47-04:00"
+        },
+        {
+          "created_at": "2013-02-27T01:39:16-05:00",
+          "id": 1,
+          "link": null,
+          "name": "Environmental Defense Canada Toxic Ten",
+          "short_name": "ED",
+          "updated_at": "2013-03-02T10:46:05-05:00"
+        },
+        {
+          "created_at": "2020-05-13T09:58:53-04:00",
+          "id": 3169,
+          "link": "http://www.safecosmetics.org/get-the-facts/chemicals-of-concern/synthetic-musks/",
+          "name": "Synthetic Musks. (n.d.). Retrieved May 13, 2020, from http://www.safecosmetics.org/get-the-facts/chemicals-of-concern/synthetic-musks/",
+          "short_name": "",
+          "updated_at": "2020-05-13T09:58:53-04:00"
+        }
+      ]
+    }
+  },
+  {
+    "ingredient": {
+      "cas_number": "128-37-0",
+      "created_at": "2013-03-04T18:08:01-05:00",
+      "id": 6,
+      "inci_name": "",
+      "more_info": null,
+      "name": "BHT ",
+      "organic": false,
+      "pubmed_count": 0,
+      "pubmed_term": "BUTYLATED HYDROXYTOLUENE ",
+      "updated_at": "2018-03-15T17:11:28-04:00",
+      "ingredient_alias_names": [],
+      "usage": "BHT is used in a wide array of personal care products as an antioxidant and to mask unpleasant flavours or scents. It is also used as a preservative in personal care and food products. ",
+      "explanation": "BHT has been linked to a number of adverse health effects (endocrine dysfunction, tumour promotion and organ system toxicity) through long-term exposure studies,- however, most use extremely high doses. ",
+      "notes": "http://www.cdph.ca.gov/programs/cosmetics/Documents/chemlist.pdf",
+      "hazards": [
+        {
+          "benefit": false,
+          "created_at": "2014-04-17T00:45:44-04:00",
+          "id": 68,
+          "name": "Possible Endocrine Disruptor",
+          "rating": 4,
+          "short_name": "Possible Endocrine Disruptor",
+          "updated_at": "2015-05-15T11:28:28-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-12-09T11:40:34-05:00",
+          "id": 141,
+          "name": "Mild Penetration Enhancer",
+          "rating": 1,
+          "short_name": "",
+          "updated_at": "2016-10-18T13:33:24-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2013-08-17T02:36:11-04:00",
+          "id": 34,
+          "name": "Mild Irritations when contact with Eyes",
+          "rating": 1,
+          "short_name": "MI",
+          "updated_at": "2014-10-21T09:35:33-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-09-30T12:10:42-04:00",
+          "id": 117,
+          "name": "Mild irritation, itchiness, redness when contact with eyes and skin for some sensitive individuals",
+          "rating": 2,
+          "short_name": "mild effect for some individual",
+          "updated_at": "2015-01-12T20:23:02-05:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-11-19T08:44:00-05:00",
+          "id": 139,
+          "name": "Environment Canada DSL: Moderate Human Health Priority",
+          "rating": 5,
+          "short_name": "Environment Canada DSL: Moderate Human Health Priority",
+          "updated_at": "2014-11-19T08:44:00-05:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-10-09T13:10:38-04:00",
+          "id": 129,
+          "name": "Allergenic for some individual (low concern)",
+          "rating": 2,
+          "short_name": "",
+          "updated_at": "2019-11-27T16:15:43-05:00"
+        }
+      ],
+      "warning_agencies": [
+        {
+          "created_at": "2013-03-31T12:25:58-04:00",
+          "id": 6,
+          "jurisdiction": "California, US",
+          "link": "http://oehha.ca.gov/prop65/prop65_list/files/P65single040414.pdf",
+          "name": "Proposition 65 The Safe Drinking Water and Toxic Enforcement Act of 1986",
+          "short_name": "P65",
+          "updated_at": "2014-04-11T22:41:49-04:00"
+        },
+        {
+          "created_at": "2013-06-03T20:17:43-04:00",
+          "id": 24,
+          "jurisdiction": "US",
+          "link": null,
+          "name": "California Department Of Public Health  Occupational Health Branch California Safe Cosmetics Program",
+          "short_name": "CSCP",
+          "updated_at": "2013-06-03T20:18:17-04:00"
+        }
+      ],
+      "sources": [
+        {
+          "created_at": "2015-01-06T11:12:40-05:00",
+          "id": 854,
+          "link": "http://www.revistafarmacia.ro/201301/art-18-2013-1-pop%20202-211.pdf",
+          "name": "ANCA P; CRISTIAN B. Evaluation of the possible endocrine disruptive effect of Butylated Hydroxyanisole, Butylated Hydroxytoluene and Propyl Gallate in immature female ratsfarmacia. 2013, vol. 61",
+          "short_name": "",
+          "updated_at": "2015-03-11T15:51:23-04:00"
+        },
+        {
+          "created_at": "2013-02-27T01:39:16-05:00",
+          "id": 1,
+          "link": null,
+          "name": "Environmental Defense Canada Toxic Ten",
+          "short_name": "ED",
+          "updated_at": "2013-03-02T10:46:05-05:00"
+        },
+        {
+          "created_at": "2013-05-19T21:02:54-04:00",
+          "id": 19,
+          "link": null,
+          "name": "EU Cosmetic Directive CosIng",
+          "short_name": "EUCDC",
+          "updated_at": "2013-05-19T21:02:54-04:00"
+        }
+      ]
+    }
+  },
+  {
+    "ingredient": {
+      "cas_number": "106-50-3",
+      "created_at": "2013-03-04T18:11:25-05:00",
+      "id": 7,
+      "inci_name": "",
+      "more_info": null,
+      "name": "PPD OR COAL TAR-DERIVED COLOURS",
+      "organic": false,
+      "pubmed_count": 0,
+      "pubmed_term": "DIHYDROCHLORIDE",
+      "updated_at": "2020-07-27T15:39:28-04:00",
+      "ingredient_alias_names": [
+        "1,4-BENZENEDIAMINE",
+        "1,4-DIAMINOBENZENE",
+        "1,4-PHENYLENEDIA- MINE",
+        "4-AMINOANILINE",
+        "DIHYDROCHLORIDE ",
+        "P-AMINOANILINE ",
+        "P-BENZENEDIAMINE CI 76060",
+        "P-PHENYLENEDIAMINE"
+      ],
+      "usage": "Natural and inorganic pigments used in cosmetics.",
+      "explanation": "",
+      "notes": "Marked as a Sephora high-priority chemical - Sephora to reduce the number of products containing any of their high priority chemicals by 50% in 3 years\r\nhttps://www.sephorastands.com/wp-content/uploads/Sephora-Public-Chemicals-Policy-2019.pdf\r\n\r\nEcoholic Body book author \r\nhttp://www.thestar.com/news/world/2012/04/17/adria_vasils_mean_15_from_the_book_ecoholic_body.html",
+      "hazards": [
+        {
+          "benefit": false,
+          "created_at": "2013-08-22T12:42:18-04:00",
+          "id": 41,
+          "name": "Possible Carcinogen",
+          "rating": 8,
+          "short_name": "PC",
+          "updated_at": "2018-04-21T18:46:16-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-09-30T12:53:54-04:00",
+          "id": 118,
+          "name": "Possible allergic reactions",
+          "rating": 3,
+          "short_name": "Possible allergic reactions",
+          "updated_at": "2019-11-27T16:16:02-05:00"
+        }
+      ],
+      "warning_agencies": [
+        {
+          "created_at": "2013-02-27T01:40:25-05:00",
+          "id": 1,
+          "jurisdiction": "Canada",
+          "link": "https://www.canada.ca/en/health-canada/services/consumer-product-safety/cosmetics/cosmetic-ingredient-hotlist-prohibited-restricted-ingredients/hotlist.html",
+          "name": "Health Canada Hot list - The Hotlist is used to keep the cosmetic industry aware of substances that are restricted or prohibited in cosmetics. It has no legal authority and cannot be enforced.",
+          "short_name": "CHL",
+          "updated_at": "2018-04-21T18:50:15-04:00"
+        }
+      ],
+      "sources": [
+        {
+          "created_at": "2013-02-27T01:39:22-05:00",
+          "id": 2,
+          "link": "http://www.davidsuzuki.org/issues/health/science/toxics/dirty-dozen-cosmetic-chemicals/",
+          "name": "David Suzuki Foundation Dirty Dozen",
+          "short_name": "DSF",
+          "updated_at": "2014-03-07T20:38:31-05:00"
+        },
+        {
+          "created_at": "2013-07-27T17:32:26-04:00",
+          "id": 21,
+          "link": null,
+          "name": "Ecoholic Body by Adria Vasil",
+          "short_name": "EBAV",
+          "updated_at": "2013-07-27T17:32:26-04:00"
+        },
+        {
+          "created_at": "2013-02-27T01:39:16-05:00",
+          "id": 1,
+          "link": null,
+          "name": "Environmental Defense Canada Toxic Ten",
+          "short_name": "ED",
+          "updated_at": "2013-03-02T10:46:05-05:00"
+        },
+        {
+          "created_at": "2020-07-27T13:39:35-04:00",
+          "id": 3593,
+          "link": "https://www.sephorastands.com/wp-content/uploads/Sephora-Public-Chemicals-Policy-2019.pdf",
+          "name": "Sephora Safer Chemical Policy - High-Priority Chemicals ",
+          "short_name": "Sephora High-Priority Chemicals ",
+          "updated_at": "2020-07-27T13:39:35-04:00"
+        }
+      ]
+    }
+  },
+  {
+    "ingredient": {
+      "cas_number": "",
+      "created_at": "2013-03-05T01:13:56-05:00",
+      "id": 8,
+      "inci_name": "",
+      "more_info": null,
+      "name": "BUTYLPARABEN / BENZYLPARABEN",
+      "organic": false,
+      "pubmed_count": 0,
+      "pubmed_term": "parabens",
+      "updated_at": "2020-07-27T13:58:11-04:00",
+      "ingredient_alias_names": [
+        "BENZYLPARABEN",
+        "BUTYLPARABEN",
+        "BUTYLPARABEN (PRESERVATIVE)"
+      ],
+      "usage": "Used preservatives in Cosmetics and are often used as unlisted fragrance ingredients",
+      "explanation": "Butylparaben is in the paraben family of preservatives. The problem with parabens are that it mimics estrogen and can act as potential hormone causing systemic disruptor. Butylparaben is an endocrine disruptor that can harm male reproductive system development.",
+      "notes": "Marked as a Sephora high-priority chemical - Sephora to reduce the number of products containing any of their high priority chemicals by 50% in 3 years\r\nhttps://www.sephorastands.com/wp-content/uploads/Sephora-Public-Chemicals-Policy-2019.pdf\r\n\r\nhttp://onlinelibrary.wiley.com/doi/10.1002/jat.946/abstract\r\n\r\n0.4 % MAC (for single ester, as acid); 0.8 % MAC (for mixture of esters, as acid)\r\nhttp://eur-lex.europa.eu/Notice.do?val=505838:cs&lang=en&list=505838:cs,&pos=1&page=1&nbl=1&pgs=10&hwords=1223-2009~\r\n\r\n\r\nhttp://oehha.ca.gov/prop65/law/dbpnotice120707.html\r\n\r\nJanjua NR, Mortensen GK, Andersson AM, Kongshoj B, Skakkebaek NE, Wulf HC (2007). Systemic uptake of diethyl phthalate, dibutyl phthalate, and butyl paraben following whole-body topical application and reproductive and thyroid hormone levels in humans. Environ Sci Technol 41, 5564-70.\r\n\r\nhttp://ec.europa.eu/health/scientific_committees/consumer_safety/docs/sccs_q_069.pdf\r\n\r\nThe European Commission’s Scientific Committee for Consumer Safety (SCCS) has been requested to provide an opinion on potential endocrine disrupting chemicals propylparaben and butylparaben, used as preservatives in personal care products.\r\nIn March 2011, the SCCS considered butylparaben and propylparaben to be safe, provided that the sum of their individual concentrations does not exceed 0.19% of a product. At the same time, Denmark notified the Commission that it had banned propylparaben and butylparaben in cosmetic products for children up to three years of age. In October 2011, the SCCS added a clarification to its previous opinion, concluding that a “risk could not be excluded” for leave-on products for use in the nappy area, for children below the age of six months.\r\nThe SCCS has been asked to consider whether its opinions on the parabens need to be updated.\r\n\r\nhttp://ca.wiley.com/WileyCDA/PressRelease/pressReleaseId-102079.html",
+      "hazards": [
+        {
+          "benefit": false,
+          "created_at": "2013-08-22T12:42:18-04:00",
+          "id": 41,
+          "name": "Possible Carcinogen",
+          "rating": 8,
+          "short_name": "PC",
+          "updated_at": "2018-04-21T18:46:16-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-10-10T12:45:10-04:00",
+          "id": 130,
+          "name": "Not enough information is available, use with concern",
+          "rating": 2,
+          "short_name": "",
+          "updated_at": "2017-10-25T17:31:54-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2013-06-01T00:25:48-04:00",
+          "id": 33,
+          "name": "Endocrine Disruptor",
+          "rating": 9,
+          "short_name": "ED",
+          "updated_at": "2013-06-01T00:25:48-04:00"
+        },
+        {
+          "benefit": null,
+          "created_at": "2013-02-27T01:38:18-05:00",
+          "id": 8,
+          "name": "Male Reproductive Health Interference",
+          "rating": 8,
+          "short_name": "TP",
+          "updated_at": "2013-03-02T23:39:49-05:00"
+        }
+      ],
+      "warning_agencies": [
+        {
+          "created_at": "2013-08-21T15:15:46-04:00",
+          "id": 27,
+          "jurisdiction": "EU",
+          "link": "http://ec.europa.eu/health/scientific_committees/consumer_safety/docs/sccs_o_041.pdf",
+          "name": "EU CosIng Limit: 0.4 % MAC (for single ester, as acid); 0.8 % MAC (for mixture of esters, as acid)",
+          "short_name": "EULimit Parabens",
+          "updated_at": "2013-09-09T10:46:08-04:00"
+        },
+        {
+          "created_at": "2013-03-31T12:25:58-04:00",
+          "id": 6,
+          "jurisdiction": "California, US",
+          "link": "http://oehha.ca.gov/prop65/prop65_list/files/P65single040414.pdf",
+          "name": "Proposition 65 The Safe Drinking Water and Toxic Enforcement Act of 1986",
+          "short_name": "P65",
+          "updated_at": "2014-04-11T22:41:49-04:00"
+        },
+        {
+          "created_at": "2020-02-26T14:22:33-05:00",
+          "id": 138,
+          "jurisdiction": "California, US",
+          "link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB495",
+          "name": "California Aseembly Bill 145 Restricted Chemical",
+          "short_name": "California Aseembly Bill 145 Restricted Chemical",
+          "updated_at": "2020-02-26T14:22:33-05:00"
+        },
+        {
+          "created_at": "2020-06-01T08:40:35-04:00",
+          "id": 140,
+          "jurisdiction": "",
+          "link": "https://chemsec.org/",
+          "name": "ChemSec SIN LIST",
+          "short_name": "",
+          "updated_at": "2020-06-01T08:40:35-04:00"
+        }
+      ],
+      "sources": [
+        {
+          "created_at": "2013-02-27T01:39:28-05:00",
+          "id": 3,
+          "link": null,
+          "name": "Breast Cancer Fund Chemicals Linked to Breast Cancer",
+          "short_name": "BCF",
+          "updated_at": "2013-03-03T01:03:08-05:00"
+        },
+        {
+          "created_at": "2013-03-05T02:13:04-05:00",
+          "id": 10,
+          "link": null,
+          "name": "Campaign for Safe Cosmetics",
+          "short_name": "CSC",
+          "updated_at": "2013-03-05T02:13:04-05:00"
+        },
+        {
+          "created_at": "2013-02-27T01:39:22-05:00",
+          "id": 2,
+          "link": "http://www.davidsuzuki.org/issues/health/science/toxics/dirty-dozen-cosmetic-chemicals/",
+          "name": "David Suzuki Foundation Dirty Dozen",
+          "short_name": "DSF",
+          "updated_at": "2014-03-07T20:38:31-05:00"
+        },
+        {
+          "created_at": "2013-02-27T01:39:16-05:00",
+          "id": 1,
+          "link": null,
+          "name": "Environmental Defense Canada Toxic Ten",
+          "short_name": "ED",
+          "updated_at": "2013-03-02T10:46:05-05:00"
+        },
+        {
+          "created_at": "2014-05-02T01:31:30-04:00",
+          "id": 159,
+          "link": "http://www.ncbi.nlm.nih.gov/pubmed/19101832",
+          "name": "International Journal of Toxicology 2008 Final amended report on the safety assessment of Methylparaben, Ethylparaben, Propylparaben, Isopropylparaben, Butylparaben, Isobutylparaben, and Benzylparaben as used in cosmetic products.",
+          "short_name": "International Journal of Toxicology 2008 Final amended report on the safety assessment of Methylparaben, Ethylparaben, Propylparaben, Isopropylparaben, Butylparaben, Isobutylparaben, and Benzylparaben as used in cosmetic products.",
+          "updated_at": "2014-05-02T01:31:30-04:00"
+        },
+        {
+          "created_at": "2013-02-27T01:39:42-05:00",
+          "id": 4,
+          "link": "http://www.organicconsumers.org/bodycare/toxic_cosmetics.cfm",
+          "name": "Organic Consumer Association Top 10 to avoid",
+          "short_name": "OCA",
+          "updated_at": "2014-06-21T22:36:47-04:00"
+        },
+        {
+          "created_at": "2020-07-27T13:39:35-04:00",
+          "id": 3593,
+          "link": "https://www.sephorastands.com/wp-content/uploads/Sephora-Public-Chemicals-Policy-2019.pdf",
+          "name": "Sephora Safer Chemical Policy - High-Priority Chemicals ",
+          "short_name": "Sephora High-Priority Chemicals ",
+          "updated_at": "2020-07-27T13:39:35-04:00"
+        },
+        {
+          "created_at": "2013-02-27T19:10:46-05:00",
+          "id": 7,
+          "link": null,
+          "name": "Women's Voice for the Earth",
+          "short_name": "WVE",
+          "updated_at": "2013-03-02T10:46:36-05:00"
+        }
+      ]
+    }
+  },
+  {
+    "ingredient": {
+      "cas_number": "9004-82-4",
+      "created_at": "2013-03-05T01:27:09-05:00",
+      "id": 9,
+      "inci_name": "",
+      "more_info": null,
+      "name": "SODIUM LAURETH SULFATE",
+      "organic": false,
+      "pubmed_count": 0,
+      "pubmed_term": "SODIUM LAURETH SULFATE",
+      "updated_at": "2022-02-11T16:53:44-05:00",
+      "ingredient_alias_names": [
+        "SODIUM LAUREATE SULFATE",
+        "SODIUM LAURETH 1.0 SULFATE",
+        "SODIUM LAURETH -12 SULFATE",
+        "SODIUM LAURETH 12 SULFATE",
+        "SODIUM LAURETH-12 SULFATE",
+        "SODIUM LAURETH-18 SULFATE",
+        "SODIUM LAURETH 8 SULFATE",
+        "SODIUM LAURETH-8 SULFATE",
+        "SODIUM LAURETH SULFATE",
+        "SODIUM LAURETH SULFATE (68585-34-2)",
+        "SODIUM LAURETH SULFATE (NATURAL ORIGIN )",
+        "SODIUM LAURETH SULFATE (PLANT-DERIVED SURFACTANT)",
+        "SODIUM LAURETH SULFATE/SODIUM C12-13 PARETH SULFATE",
+        "SODIUM LAURETH SULFATE (SURFACTANT)",
+        "SODIUM LAURETH SULPHATE",
+        "SODIUM LAURYL ETHER SULFATE",
+        "S SODIUM LAURETH SULFATE"
+      ],
+      "usage": "It's an inexpensive and very effective foaming agent. May be contaminated with measurable amounts of ethylene oxide and 1,4-dioxane. IARC considers ethylene oxide as a known human carcinogen and 1,4-dioxane as a possible human carcinogen.",
+      "explanation": "",
+      "notes": "http://davidsuzuki.org/issues/health/science/toxics/chemicals-in-your-cosmetics---sodium-laureth-sulfate/\r\n\r\nEthylene oxide and 1,4-dioxane are prohibited on Health Canada's Cosmetic Ingredient Hotlist. ",
+      "hazards": [
+        {
+          "benefit": false,
+          "created_at": "2013-08-17T02:36:11-04:00",
+          "id": 34,
+          "name": "Mild Irritations when contact with Eyes",
+          "rating": 1,
+          "short_name": "MI",
+          "updated_at": "2014-10-21T09:35:33-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2013-05-05T22:39:26-04:00",
+          "id": 28,
+          "name": "Contamination concerns with Ethylene Oxide",
+          "rating": 4,
+          "short_name": "CC",
+          "updated_at": "2016-12-12T16:21:00-05:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2013-10-11T12:05:45-04:00",
+          "id": 47,
+          "name": "Contamination concerns with 1,4-DIOXANE",
+          "rating": 4,
+          "short_name": "CC 1,4-DIOXANE",
+          "updated_at": "2016-12-12T16:20:35-05:00"
+        }
+      ],
+      "warning_agencies": [
+        {
+          "created_at": "2014-03-03T22:32:52-05:00",
+          "id": 55,
+          "jurisdiction": "Canada",
+          "link": "https://www.canada.ca/en/health-canada/services/consumer-product-safety/cosmetics/cosmetic-ingredient-hotlist-prohibited-restricted-ingredients/hotlist.html",
+          "name": "Ethylene oxide and 1,4-dioxane are prohibited on Health Canada's Cosmetic Ingredient Hotlist",
+          "short_name": "Ethylene oxide and 1,4-dioxane are prohibited on Health Canada's Cosmetic Ingredient Hotlist",
+          "updated_at": "2018-04-21T18:49:42-04:00"
+        },
+        {
+          "created_at": "2014-03-03T22:36:05-05:00",
+          "id": 56,
+          "jurisdiction": "China",
+          "link": "http://www.chinadaily.com.cn/china/2009-03/21/content_7603271.htm",
+          "name": "1,4-Dioxane is found in small amounts in some cosmetics, a yet unregulated substance used in cosmetics in both China and the U.S.",
+          "short_name": "1,4-Dioxane is found in small amounts in some cosmetics, a yet unregulated substance used in cosmetics in both China and the U.S.",
+          "updated_at": "2014-03-03T22:36:05-05:00"
+        },
+        {
+          "created_at": "2014-03-03T22:36:43-05:00",
+          "id": 57,
+          "jurisdiction": "",
+          "link": "http://monographs.iarc.fr/ENG/Monographs/vol71/mono71-25.pdf",
+          "name": "IARC list 1,4-DIOXANE as possible carcinogen",
+          "short_name": "IARC list 1,4-DIOXANE as possible carcinogen",
+          "updated_at": "2014-03-03T22:37:07-05:00"
+        },
+        {
+          "created_at": "2014-03-03T22:40:13-05:00",
+          "id": 58,
+          "jurisdiction": "",
+          "link": "http://davidsuzuki.org/issues/health/science/toxics/chemicals-in-your-cosmetics---sodium-laureth-sulfate/",
+          "name": "IARC list ethylene oxide as a known human carcinogen",
+          "short_name": "IARC list ethylene oxide as a known human carcinogen",
+          "updated_at": "2014-03-03T22:40:13-05:00"
+        }
+      ],
+      "sources": [
+        {
+          "created_at": "2014-07-09T14:33:47-04:00",
+          "id": 235,
+          "link": "https://www.wholefoodsmarket.com/premium-body-care-unacceptable-ingredients",
+          "name": "Whole Foods Market Premium Body Care Standards Unacceptable Ingredients",
+          "short_name": "Whole Foods Market Premium Body Care Standards Unacceptable Ingredients",
+          "updated_at": "2018-05-09T11:13:48-04:00"
+        },
+        {
+          "created_at": "2013-02-27T01:39:42-05:00",
+          "id": 4,
+          "link": "http://www.organicconsumers.org/bodycare/toxic_cosmetics.cfm",
+          "name": "Organic Consumer Association Top 10 to avoid",
+          "short_name": "OCA",
+          "updated_at": "2014-06-21T22:36:47-04:00"
+        },
+        {
+          "created_at": "2013-02-27T01:39:16-05:00",
+          "id": 1,
+          "link": null,
+          "name": "Environmental Defense Canada Toxic Ten",
+          "short_name": "ED",
+          "updated_at": "2013-03-02T10:46:05-05:00"
+        },
+        {
+          "created_at": "2013-02-27T01:39:22-05:00",
+          "id": 2,
+          "link": "http://www.davidsuzuki.org/issues/health/science/toxics/dirty-dozen-cosmetic-chemicals/",
+          "name": "David Suzuki Foundation Dirty Dozen",
+          "short_name": "DSF",
+          "updated_at": "2014-03-07T20:38:31-05:00"
+        },
+        {
+          "created_at": "2013-02-27T01:39:28-05:00",
+          "id": 3,
+          "link": null,
+          "name": "Breast Cancer Fund Chemicals Linked to Breast Cancer",
+          "short_name": "BCF",
+          "updated_at": "2013-03-03T01:03:08-05:00"
+        }
+      ]
+    }
+  },
+  {
+    "ingredient": {
+      "cas_number": "151-21-3",
+      "created_at": "2013-03-05T01:41:13-05:00",
+      "id": 10,
+      "inci_name": "",
+      "more_info": null,
+      "name": "SODIUM LAURYL SULFATE",
+      "organic": false,
+      "pubmed_count": 0,
+      "pubmed_term": "",
+      "updated_at": "2022-09-14T10:21:18-04:00",
+      "ingredient_alias_names": [
+        "N-DODECYL SULFATE SODIUM",
+        "SDS (SODIUM DODECYL SULFATE)",
+        "SODIUM DODECANESULFATE",
+        "SODIUM DODECYL SULFATE",
+        "SODIUM LAURYL SULFATE",
+        "SODIUM LAURYL SULFATE 0.4%",
+        "SODIUM LAURYL SULFATE (CLEANSER)",
+        "SODIUM LAURYL SULFATE (COCONUT OIL)",
+        "SODIUM LAURYL SULFATE (DISPERSANT",
+        "SODIUM LAURYL SULFATE (PLANT BASED SURFACTANT)",
+        "SODIUM LAURYL SULFATE (PLANT-DERIVED CLEANING AGENT)",
+        "SODIUM LAURYL SULPHATE",
+        "SODIUM MONODODECYL SULFATE",
+        "SODIUM MONOLAURYL SULFATE"
+      ],
+      "usage": "It's a cleansing and foaming agent in rinse-off products like shampoos, bath products, shaving creams and skin cleansers. It is also sometimes found in other cosmetics like creams and lotions. Although a major irritant if not formulated properly, it is not found to have any major toxic effects. ",
+      "explanation": "Sodium lauryl sulfate (SLS), also known as sodium dodecyl sulfate, is an anionic surfactant commonly used in household cleaning products (laundry detergents, spray cleaners, and dishwasher detergents). The concentration of SLS found in consumer products varies, but typically ranges from 0.01% to 50% in cosmetic products and 1% to 30% in cleaning products. SLS can be synthetic or naturally derived.\r\n\r\nContamination with 1,4-dioxane is falsely associated with SLS. 1,4-dioxane has the potential to contaminate some ingredients during the ethoxylation process, like sodium laureth sulfate (also called sodium lauryl ether sulfate or SLES). Contamination by manufacturing equipment, surfactants that are not ethoxylated, such as SLS, do not share the same risk of 1,4-dioxane contamination. It is important to note, however, that potential for cross-contamination during manufacturing exists. Manufacturers of SLS and products containing SLS can perform chemical analyses to confirm if there are detectable levels of 1,4-dioxane in the SLS ingredient or formulated consumer product.",
+      "notes": "",
+      "hazards": [
+        {
+          "benefit": false,
+          "created_at": "2013-05-01T00:11:27-04:00",
+          "id": 26,
+          "name": "Skin irritation",
+          "rating": 3,
+          "short_name": "SI",
+          "updated_at": "2013-05-01T00:11:27-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-09-30T12:53:54-04:00",
+          "id": 118,
+          "name": "Possible allergic reactions",
+          "rating": 3,
+          "short_name": "Possible allergic reactions",
+          "updated_at": "2019-11-27T16:16:02-05:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-10-02T15:53:50-04:00",
+          "id": 126,
+          "name": "Contamination concerns",
+          "rating": 3,
+          "short_name": "Contamination concerns",
+          "updated_at": "2014-10-02T15:53:50-04:00"
+        }
+      ],
+      "warning_agencies": [
+        {
+          "created_at": "2013-03-31T17:36:08-04:00",
+          "id": 14,
+          "jurisdiction": "US",
+          "link": null,
+          "name": "US Food and Drug Administration ",
+          "short_name": "FDA",
+          "updated_at": "2013-03-31T17:36:08-04:00"
+        }
+      ],
+      "sources": [
+        {
+          "created_at": "2014-10-01T11:02:44-04:00",
+          "id": 324,
+          "link": "",
+          "name": "US Food and Drug Administration",
+          "short_name": "FDA",
+          "updated_at": "2014-10-10T13:15:42-04:00"
+        },
+        {
+          "created_at": "2013-02-27T01:39:42-05:00",
+          "id": 4,
+          "link": "http://www.organicconsumers.org/bodycare/toxic_cosmetics.cfm",
+          "name": "Organic Consumer Association Top 10 to avoid",
+          "short_name": "OCA",
+          "updated_at": "2014-06-21T22:36:47-04:00"
+        },
+        {
+          "created_at": "2014-10-07T12:28:33-04:00",
+          "id": 393,
+          "link": "http://ec.europa.eu/consumers/cosmetics/cosing/",
+          "name": "EU Cosing",
+          "short_name": "EU Cosing",
+          "updated_at": "2014-10-07T12:28:33-04:00"
+        },
+        {
+          "created_at": "2022-09-14T10:25:15-04:00",
+          "id": 4283,
+          "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4651417/",
+          "name": "Bondi, C. A., Marks, J. L., Wroblewski, L. B., Raatikainen, H. S., Lenox, S. R., &amp; Gebhardt, K. E. (2015). Human and environmental toxicity of sodium lauryl sulfate (SLS): Evidence for safe use in household cleaning products. Environmental Health Insights, 9. https://doi.org/10.4137/ehi.s31765 ",
+          "short_name": "Human and environmental toxicity of sodium lauryl sulfate (SLS): Evidence for safe use in household cleaning products",
+          "updated_at": "2022-09-14T10:25:15-04:00"
+        }
+      ]
+    }
+  },
+  {
+    "ingredient": {
+      "cas_number": "61789-19-3",
+      "created_at": "2013-03-05T02:01:58-05:00",
+      "id": 11,
+      "inci_name": "",
+      "more_info": null,
+      "name": "DIETHANOLAMINE DEA MEA",
+      "organic": false,
+      "pubmed_count": 0,
+      "pubmed_term": "Diethanolamine",
+      "updated_at": "2020-07-27T15:37:43-04:00",
+      "ingredient_alias_names": [
+        "AVOCADAMIDE DEA (AVOCADO)",
+        "CARBOXAMIDE MEA",
+        "DEA CETYL PHOSPHATE",
+        "DEA-CETYL PHOSPHATE",
+        "DEA-CETYL-PHOSPHATE",
+        "DIETHANOLAMINE",
+        "DIETHYLOLAMINE",
+        "LACTAMIDE MEA (CLEANSING AGENT/HUMECTANT)",
+        "LACTAMINE MEA",
+        "LAURAMIDE DEA",
+        "LAURAMIDE MEA",
+        "MEA BORATE",
+        "MEA-BORATE",
+        "MEA LAURETH SULFATE",
+        "MEA-LAURETH SULFATE",
+        "OLEAMIDE DEA",
+        "STEARAMIDE MEA"
+      ],
+      "usage": "Ethanolamine the first of three organic compounds that can be derived from ammonia by successively replacing the hydrogen atoms with hydroxyethyl radicals (−CH2CH2OH), the others being diethanolamine and triethanolamine. DEA, TEA, MEAs are Ethanolamine compounds. Cocamide diethanolamine (DEA) is made from a mixture of fatty acids derived from coconut oil and diethanolamine, a synthetic compound made from ammonia and ethylene oxide. It is used primarily in shampoo, conditioner, bath oil, lipstick, hair dye, and other cosmetics. People may be exposed to cocamide DEA by skin absorption or ingestion. The International Agency for Research on Cancer (IARC) considers cocamide DEA to be a possible human carcinogen. California Proposition 65 lists cocamide DEA as a carcinogen.",
+      "explanation": "",
+      "notes": "Marked as a Sephora high-priority chemical - Sephora to reduce the number of products containing any of their high priority chemicals by 50% in 3 years\r\nhttps://www.sephorastands.com/wp-content/uploads/Sephora-Public-Chemicals-Policy-2019.pdf\r\n\r\n61789-19-3\r\n68155-06-6\r\n667191-31-9\r\n\r\nhttp://www.ewg.org/skindeep/ingredient/701516/COCAMIDE_DEA/\r\n\r\nhttp://en.wikipedia.org/wiki/Cocamide_DEA\r\n\r\nhttp://www.ceh.org/news-events/press-releases/content/lawsuit-launched-testing-finds-cancer-causing-chemical-in-100-shampoos-haircare-products/\r\n\r\nhttp://www.cdph.ca.gov/programs/cosmetics/Documents/chemlist.pdf\r\n\r\nhttp://www.refinery29.com/2014/05/67868/cocamide-dea-carcinogen\r\n\r\nhttp://lpi.oregonstate.edu/f-w00/nitrosamine.html\r\n\r\nhttp://www.ncbi.nlm.nih.gov/pubmed/12571685\r\n\r\nCreates suds, also acts as a pH adjuster. Ethanolamine the first of three organic compounds that can be derived from ammonia by successively replacing the hydrogen atoms with hydroxyethyl radicals (−CH2CH2OH), the others being diethanolamine and triethanolamine.\r\n\r\nCocamide diethanolamine (DEA) is made from a mixture of fatty acids derived from coconut oil and diethanolamine, a synthetic compound made from ammonia and ethylene oxide. It is used primarily in shampoo, conditioner, bath oil, lipstick, hair dye, and other cosmetics. People may be exposed to cocamide DEA by skin absorption or ingestion. Studies of mice exposed to cocamide DEA on their skin showed higher levels of liver cancer and tumors. Rats exposed to cocamide DEA on their skin did not show any increased incidence of cancer or tumors. The International Agency for Research on Cancer (IARC) considers cocamide DEA to be a possible human carcinogen. California Proposition 65 lists cocamide DEA as a carcinogen.\r\n\r\nhttp://ijt.sagepub.com/content/18/2_suppl/9.abstract http://en.wikipedia.org/wiki/Ethanolamine Also known as: Cocamide MEA Source: Cocamide monoethanolamine (MEA) is a compound similar to cocamide diethanoloamine. It is a mixture of fatty acids and coconut oil which is used in cosmetic products to make them foamy or to keep ingredients from separating. Potential health impacts: People may be exposed to cocamide MEA by skin contact, inhalation, or ingestion. Cocamide MEA vapor may cause lung irritation and asthma. There is no evidence to suggest that cocamide MEA itself is a carcinogen, however MEA may contain trace amounts of diethanolamine, which is categorized by the International Agency for Research on Cancer (IARC) as a possible human carcinogen. http://monographs.iarc.fr/ENG/Monographs/vol101/mono101-004.pdf California Proposition 65 does not list cocamide MEA as a carcinogen or as a reproductive toxin. The Personal Care Products Council, an industry trade group, recommends that cocamide MEA be limited to 10 percent in leave-in products and not be used in products that will be aerosolized. http://www.fda.gov/cosmetics/productsingredients/ingredients/ucm109655.htm\r\n\r\nToxicol Sci. Jun 2004; 79(2): 242–247 Evaluation of the Potential of Triethanolamine to Alter Hepatic Choline Levels in Female B6C3F1 Mice\r\n\r\nhttp://www.ncbi.nlm.nih.gov/pmc/articles/PMC1592523/\r\n\r\nhttp://www.epa.gov/ttn/atw/hlthef/diethano.html",
+      "hazards": [
+        {
+          "benefit": false,
+          "created_at": "2014-05-21T14:06:27-04:00",
+          "id": 86,
+          "name": "The NTP reported an increased incidence of liver and kidney tumors in mice and no increased incidence in rats from dermal exposure to diethanolamine.",
+          "rating": 7,
+          "short_name": "The NTP reported an increased incidence of liver and kidney tumors in mice and no increased incidence in rats from dermal exposure to diethanolamine.",
+          "updated_at": "2014-05-21T14:06:27-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2013-08-22T12:42:18-04:00",
+          "id": 41,
+          "name": "Possible Carcinogen",
+          "rating": 8,
+          "short_name": "PC",
+          "updated_at": "2018-04-21T18:46:16-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-05-19T20:55:41-04:00",
+          "id": 84,
+          "name": "MEA may contain trace amounts of diethanolamine, which is categorized by the International Agency for Research on Cancer (IARC) as a possible human carcinogen",
+          "rating": 7,
+          "short_name": "MEA may contain trace amounts of diethanolamine, which is categorized by the International Agency for Research on Cancer (IARC) as a possible human carcinogen",
+          "updated_at": "2014-05-19T20:55:41-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-05-19T22:06:29-04:00",
+          "id": 85,
+          "name": "A 2009 study found that TEA has potential acute, sub-chronic and chronic toxicity properties in respect to aquatic species.",
+          "rating": 5,
+          "short_name": "A 2009 study found that TEA has potential acute, sub-chronic and chronic toxicity properties in respect to aquatic species.",
+          "updated_at": "2014-10-21T10:16:30-04:00"
+        },
+        {
+          "benefit": null,
+          "created_at": "2013-02-27T01:38:48-05:00",
+          "id": 12,
+          "name": "Carcinogenic in Lab Studies",
+          "rating": 7,
+          "short_name": "CL",
+          "updated_at": "2013-03-05T02:16:12-05:00"
+        }
+      ],
+      "warning_agencies": [
+        {
+          "created_at": "2013-02-27T01:40:33-05:00",
+          "id": 2,
+          "jurisdiction": "EU",
+          "link": null,
+          "name": "Limit use by EU Coslng",
+          "short_name": "LEU",
+          "updated_at": "2013-04-26T11:27:18-04:00"
+        },
+        {
+          "created_at": "2013-03-31T17:34:49-04:00",
+          "id": 12,
+          "jurisdiction": "US",
+          "link": "http://ntp.niehs.nih.gov/",
+          "name": "National Toxicology Program",
+          "short_name": "NTP",
+          "updated_at": "2014-04-12T18:54:21-04:00"
+        },
+        {
+          "created_at": "2013-06-03T20:17:43-04:00",
+          "id": 24,
+          "jurisdiction": "US",
+          "link": null,
+          "name": "California Department Of Public Health  Occupational Health Branch California Safe Cosmetics Program",
+          "short_name": "CSCP",
+          "updated_at": "2013-06-03T20:18:17-04:00"
+        },
+        {
+          "created_at": "2013-03-31T12:25:58-04:00",
+          "id": 6,
+          "jurisdiction": "California, US",
+          "link": "http://oehha.ca.gov/prop65/prop65_list/files/P65single040414.pdf",
+          "name": "Proposition 65 The Safe Drinking Water and Toxic Enforcement Act of 1986",
+          "short_name": "P65",
+          "updated_at": "2014-04-11T22:41:49-04:00"
+        },
+        {
+          "created_at": "2013-08-22T12:41:33-04:00",
+          "id": 30,
+          "jurisdiction": "International",
+          "link": "http://en.wikipedia.org/wiki/List_of_IARC_Group_2B_carcinogens",
+          "name": "IARC Category 2B Possible Carcinogen",
+          "short_name": "IARC",
+          "updated_at": "2014-04-11T22:43:06-04:00"
+        }
+      ],
+      "sources": [
+        {
+          "created_at": "2014-05-19T20:57:37-04:00",
+          "id": 196,
+          "link": "https://www.safecosmeticsact.org/search/Default.aspx",
+          "name": "California Safe Cosmetics Program Product Database",
+          "short_name": "California Safe Cosmetics Program Product Database",
+          "updated_at": "2014-05-19T20:57:37-04:00"
+        },
+        {
+          "created_at": "2013-10-14T15:45:40-04:00",
+          "id": 33,
+          "link": "http://www.ceh.org/",
+          "name": "Center for Environmental Health",
+          "short_name": "CEH",
+          "updated_at": "2013-10-14T15:45:40-04:00"
+        },
+        {
+          "created_at": "2014-05-21T14:01:22-04:00",
+          "id": 207,
+          "link": "http://www.epa.gov/ttn/atw/hlthef/diethano.html",
+          "name": "EPA on Diethanolamine",
+          "short_name": "EPA on Diethanolamine",
+          "updated_at": "2014-05-21T14:01:22-04:00"
+        },
+        {
+          "created_at": "2013-05-19T21:02:54-04:00",
+          "id": 19,
+          "link": null,
+          "name": "EU Cosmetic Directive CosIng",
+          "short_name": "EUCDC",
+          "updated_at": "2013-05-19T21:02:54-04:00"
+        },
+        {
+          "created_at": "2014-05-19T20:53:24-04:00",
+          "id": 195,
+          "link": "http://www.fda.gov/cosmetics/productsingredients/ingredients/ucm109655.htm",
+          "name": "FDA on Diethanolamine",
+          "short_name": "FDA on Diethanolamine",
+          "updated_at": "2014-05-19T20:53:24-04:00"
+        },
+        {
+          "created_at": "2014-05-19T19:58:11-04:00",
+          "id": 193,
+          "link": "http://www.cir-safety.org/sites/default/files/amides032012FAR.pdf",
+          "name": "Final Amended Report Mar 27, 2012 On the Safety Assessment of Ethanolamides as Used in Cosmetics",
+          "short_name": "Final Amended Report Mar 27, 2012 On the Safety Assessment of Ethanolamides as Used in Cosmetics",
+          "updated_at": "2014-05-19T19:58:11-04:00"
+        },
+        {
+          "created_at": "2014-05-19T21:55:50-04:00",
+          "id": 198,
+          "link": "http://www.ceh.org/news-events/press-releases/content/first-ever-legal-agreements-seek-to-end-use-of-cancer-causing-chemical-in-shampoos/",
+          "name": "First-Ever Legal Agreements Seek to End Use of Cancer-Causing Chemical in Shampoos",
+          "short_name": "First-Ever Legal Agreements Seek to End Use of Cancer-Causing Chemical in Shampoos",
+          "updated_at": "2014-05-19T21:55:50-04:00"
+        },
+        {
+          "created_at": "2014-05-19T20:59:48-04:00",
+          "id": 197,
+          "link": "http://monographs.iarc.fr/ENG/Monographs/vol101/mono101-004.pdf",
+          "name": "IARC Monographs for Diethanolamine",
+          "short_name": "IARC Monographs for Diethanolamine",
+          "updated_at": "2016-01-01T22:02:10-05:00"
+        },
+        {
+          "created_at": "2013-05-03T22:37:05-04:00",
+          "id": 18,
+          "link": null,
+          "name": "International Agency for Research on Cancer",
+          "short_name": "IARC",
+          "updated_at": "2013-05-03T22:37:05-04:00"
+        },
+        {
+          "created_at": "2014-05-19T20:22:03-04:00",
+          "id": 194,
+          "link": "http://ntp.niehs.nih.gov/ntp/roc/twelfth/profiles/nitrosamines.pdf",
+          "name": "National Toxicology Program Report on Carcinogens, Twelfth Edition (2011) National Toxicology Program, Department of Health and Human Services N-Nitrosamines",
+          "short_name": "National Toxicology Program Report on Carcinogens, Twelfth Edition (2011) National Toxicology Program, Department of Health and Human Services N-Nitrosamines",
+          "updated_at": "2014-05-19T20:22:03-04:00"
+        },
+        {
+          "created_at": "2013-03-05T02:06:26-05:00",
+          "id": 9,
+          "link": null,
+          "name": "PubMed Studies",
+          "short_name": "PM",
+          "updated_at": "2013-03-05T02:06:26-05:00"
+        },
+        {
+          "created_at": "2014-06-04T16:46:14-04:00",
+          "id": 219,
+          "link": "http://lpi.oregonstate.edu/f-w00/nitrosamine.html",
+          "name": "Richard A. Scanlan, Ph.D.  Dean of Research Emeritus  and Professor of Food Science: Nitrosamines and Cancer",
+          "short_name": "Richard A. Scanlan, Ph.D.  Dean of Research Emeritus  and Professor of Food Science: Nitrosamines and Cancer",
+          "updated_at": "2014-06-04T16:46:14-04:00"
+        },
+        {
+          "created_at": "2020-07-27T13:39:35-04:00",
+          "id": 3593,
+          "link": "https://www.sephorastands.com/wp-content/uploads/Sephora-Public-Chemicals-Policy-2019.pdf",
+          "name": "Sephora Safer Chemical Policy - High-Priority Chemicals ",
+          "short_name": "Sephora High-Priority Chemicals ",
+          "updated_at": "2020-07-27T13:39:35-04:00"
+        },
+        {
+          "created_at": "2014-05-21T14:04:42-04:00",
+          "id": 208,
+          "link": "http://www.ncbi.nlm.nih.gov/pubmed/12571685",
+          "name": "The NTP reported an increased incidence of liver and kidney tumors in mice and no increased incidence in rats from dermal exposure to diethanolamine. ",
+          "short_name": "The NTP reported an increased incidence of liver and kidney tumors in mice and no increased incidence in rats from dermal exposure to diethanolamine. ",
+          "updated_at": "2014-05-21T14:04:42-04:00"
+        },
+        {
+          "created_at": "2014-05-19T22:03:08-04:00",
+          "id": 199,
+          "link": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1592523/",
+          "name": "Toxicol Sci. Jun 2004; 79(2): 242–247 Evaluation of the Potential of Triethanolamine to Alter Hepatic Choline Levels in Female B6C3F1 Mice",
+          "short_name": "Toxicol Sci. Jun 2004; 79(2): 242–247 Evaluation of the Potential of Triethanolamine to Alter Hepatic Choline Levels in Female B6C3F1 Mice",
+          "updated_at": "2014-05-19T22:03:08-04:00"
+        },
+        {
+          "created_at": "2014-07-09T14:33:47-04:00",
+          "id": 235,
+          "link": "https://www.wholefoodsmarket.com/premium-body-care-unacceptable-ingredients",
+          "name": "Whole Foods Market Premium Body Care Standards Unacceptable Ingredients",
+          "short_name": "Whole Foods Market Premium Body Care Standards Unacceptable Ingredients",
+          "updated_at": "2018-05-09T11:13:48-04:00"
+        }
+      ]
+    }
+  },
+  {
+    "ingredient": {
+      "cas_number": "70-25-7",
+      "created_at": "2013-03-05T02:11:52-05:00",
+      "id": 12,
+      "inci_name": "",
+      "more_info": null,
+      "name": "N-NITROSAMINES",
+      "organic": false,
+      "pubmed_count": 0,
+      "pubmed_term": "N-NITROSAMINES",
+      "updated_at": "2018-03-01T22:34:11-05:00",
+      "ingredient_alias_names": [
+        "N-NITROSAMINES"
+      ],
+      "usage": "A contaminant that may be present in products containing proteins such as diethanolamine (DEA) or triethanolamine (TEA) in combintation with preservatives that can break down into nitrates.",
+      "explanation": "",
+      "notes": "",
+      "hazards": [
+        {
+          "benefit": false,
+          "created_at": "2013-08-22T12:42:18-04:00",
+          "id": 41,
+          "name": "Possible Carcinogen",
+          "rating": 8,
+          "short_name": "PC",
+          "updated_at": "2018-04-21T18:46:16-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-03-09T21:13:30-04:00",
+          "id": 61,
+          "name": "Low Possible Carcinogen",
+          "rating": 5,
+          "short_name": "Low Possible Carcinogen",
+          "updated_at": "2014-08-27T01:26:55-04:00"
+        }
+      ],
+      "warning_agencies": [
+        {
+          "created_at": "2013-02-27T01:40:33-05:00",
+          "id": 2,
+          "jurisdiction": "EU",
+          "link": null,
+          "name": "Limit use by EU Coslng",
+          "short_name": "LEU",
+          "updated_at": "2013-04-26T11:27:18-04:00"
+        },
+        {
+          "created_at": "2013-02-27T01:40:25-05:00",
+          "id": 1,
+          "jurisdiction": "Canada",
+          "link": "https://www.canada.ca/en/health-canada/services/consumer-product-safety/cosmetics/cosmetic-ingredient-hotlist-prohibited-restricted-ingredients/hotlist.html",
+          "name": "Health Canada Hot list - The Hotlist is used to keep the cosmetic industry aware of substances that are restricted or prohibited in cosmetics. It has no legal authority and cannot be enforced.",
+          "short_name": "CHL",
+          "updated_at": "2018-04-21T18:50:15-04:00"
+        },
+        {
+          "created_at": "2013-03-31T17:34:49-04:00",
+          "id": 12,
+          "jurisdiction": "US",
+          "link": "http://ntp.niehs.nih.gov/",
+          "name": "National Toxicology Program",
+          "short_name": "NTP",
+          "updated_at": "2014-04-12T18:54:21-04:00"
+        }
+      ],
+      "sources": [
+        {
+          "created_at": "2013-03-05T02:13:04-05:00",
+          "id": 10,
+          "link": null,
+          "name": "Campaign for Safe Cosmetics",
+          "short_name": "CSC",
+          "updated_at": "2013-03-05T02:13:04-05:00"
+        },
+        {
+          "created_at": "2013-03-05T02:06:26-05:00",
+          "id": 9,
+          "link": null,
+          "name": "PubMed Studies",
+          "short_name": "PM",
+          "updated_at": "2013-03-05T02:06:26-05:00"
+        }
+      ]
+    }
+  },
+  {
+    "ingredient": {
+      "cas_number": "",
+      "created_at": "2013-03-13T20:37:24-04:00",
+      "id": 13,
+      "inci_name": "",
+      "more_info": null,
+      "name": "FRAGRANCE",
+      "organic": false,
+      "pubmed_count": 0,
+      "pubmed_term": "",
+      "updated_at": "2020-08-18T09:43:05-04:00",
+      "ingredient_alias_names": [
+        "ALMOND FRAGRANCE",
+        "ALPHA-ISOMETHYL IONONE (FRAGRANCE )",
+        "AMMONIUM SULFATE LAURL FRAGRANCE OLETH-10",
+        "APRICOT FRAGRANCE",
+        "AROMA FRAGRANCE",
+        "AROMA (FRAGRANCE)",
+        "AROMA/FRAGRANCE",
+        "AROMATHERAPY FRAGRANCE",
+        "AROMATIC OILS (PARFUM)",
+        "ARTIFICIAL FRAGRANCE",
+        "BABY POWDER FRAGRANCE",
+        "BEACH COCONUT FRAGRANCE",
+        "BENZYL BENZOATE (FRAGRANCE )",
+        "BENZYL SALICYLATE (FRAGRANCE )",
+        "BLEND OF FRAGRANCE",
+        "BLEND OF NATURAL FRAGRANCE",
+        "BOTANICAL EXTRACT FRAGRANCE",
+        "BOTANICAL FRAGRANCE",
+        "BOTANICAL FRAGRANCE.",
+        "BOTANICAL FRAGRANCE BLEND",
+        "BOTANICALLY DERIVED FRAGRANCE",
+        "BUTYLPHENYL METHYLPROPIONAL (FRAGRANCE )",
+        "BUTYLPHENYL METHYLPROPIONAL (FRAGRANCE COMPONENT)",
+        "C13-14 ISOPARAFFIN PARFUM/FRAGRANCE",
+        "CARAMEL PARFUM / FRAGRANCE",
+        "CERTIFIED ORGANIC  PARFUM",
+        "CHLORPHENESIN PARFUM/FRAGRANCE",
+        "CINNAMOMUM ZEYLANICUM (CINNAMON OIL) (FRAGRANCE)",
+        "CINNAMOSMA FRAGRANS LEAF OIL",
+        "CINNAMYL ALCOHOL (FRAGRANCE )",
+        "CITRAL (FRAGRANCE )",
+        "CITRONELLOL (FRAGRANCE )",
+        "CITRUS MINT FRAGRANCE OIL",
+        "COCONUT LIME VERBENA FRAGRANCE",
+        "CONTAINS PROCESS IMPROVED FRAGRANCE",
+        "COUMARIN (FRAGRANCE )",
+        "CUCUMBE FRAGRANCE",
+        "CUCUMBER MELON FRAGRANCE",
+        "ENGLISH ROSE FRAGRANCE",
+        "ESSENTIAL OIL FRAGRANCE",
+        "ESSENTIAL OIL (NONE IN FRAGRANCE-FREE).",
+        "ESSENTIAL OILS FOR FRAGRANCE",
+        "ESSENTIAL OILS FRAGRANCE",
+        "ESSENTIAL OILS (PARFUM)",
+        "EUGENOL (FRAGRANCE )",
+        "FINE FRAGRANCE",
+        "FLORAL FRAGRANCE",
+        "FRAGANCE",
+        "FRAGANCE (PARFUM)",
+        "FRAGRANC",
+        "FRAGRANCE",
+        "(FRAGRANCE)",
+        "FRAGRANCE ",
+        "FRAGRANCE.",
+        "FRAGRANCE+",
+        "FRAGRANCE†",
+        "FRAGRANCE‡‡",
+        "FRAGRANCECARAMEL",
+        "FRAGRANCE (CITRAL",
+        "FRAGRANCE (CONTAINS NATURAL OILS)",
+        "FRAGRANCE (DOES NOT CONTAIN FRAGRANCE ALLERGENS AS PER EU7TH AMENDMENT)",
+        "FRAGRANCED OILS",
+        "FRAGRANCE/ESSENTIAL OIL",
+        "FRAGRANCE (ESSENTIAL OILS)",
+        "FRAGRANCE/FRAGANCIA",
+        "FRAGRANCE/FRAGANCIA/PARFUM",
+        "FRAGRANCE (FRAGRANCE)",
+        "FRAGRANCE/FRAGRANCIA",
+        "FRAGRANCE (FROM ORANGE",
+        "FRAGRANCE FROM SC JOHNSON FRAGRANCE PALETTE",
+        "FRAGRANCE (INCLUDES ESSENTIAL OIL)",
+        "FRAGRANCE (INCLUDES ESSENTIAL OILS)",
+        "FRAGRANCE (INCLUDING ESSENTIAL OILS)",
+        "FRAGRANCE LIMONENE",
+        "FRAGRANCE. MANGOSTANA (MANGOSTEEN) PEEL EXTRACT",
+        "FRAGRANCE. MAY ALSO CONTAIN CITRIC ACID",
+        "FRAGRANCE MAY CONTAIN: ACID RED 52",
+        "FRAGRANCE (NATICIDE)",
+        "FRAGRANCE NATURAL",
+        "FRAGRANCE (NATURAL).",
+        "FRAGRANCE. NATURAL COLOR.",
+        "FRAGRANCE(NATURAL ESSENTIAL OILS)",
+        "FRAGRANCENATURAL FRAGRANCE",
+        "FRAGRANCE (NATURAL OILS)",
+        "FRAGRANCE (NATURAL WITCH HAZEL)",
+        "FRAGRANCE OIL",
+        "FRAGRANCE OIL BLEND",
+        "FRAGRANCE OLEA EUROPAEA (OLIVE)FRUIT OIL",
+        "FRAGRANCE (ORGANIC)",
+        "FRAGRANCE ORIGINAL SCENT: MILK OATMEAL VANILLA",
+        "FRA-GRANCE (PARFUM)",
+        "FRAGRANCE PARFUM",
+        "FRAGRANCE / PARFUM",
+        "FRAGRANCE (PARFUM",
+        "FRAGRANCE ( PARFUM)",
+        "FRAGRANCE ((PARFUM))",
+        "FRAGRANCE (PARFUM)",
+        "FRAGRANCE (PARFUM)-",
+        "FRAGRANCE (PARFUM).",
+        "FRAGRANCE (PARFUM)*",
+        "FRAGRANCE [PARFUM]",
+        "FRAGRANCE/PARFUM",
+        "FRAGRANCE/ PARFUM",
+        "FRAGRANCE/PARFUM.",
+        "FRAGRANCE(PARFUM)",
+        "FRAGRANCE (PARFUM)1",
+        "FRAGRANCE (PARFUM) 1",
+        "FRAGRANCE (PARFUM). [BI 600]",
+        "FRAGRANCE/PARFUM CAMPHOR",
+        "FRAGRANCE (PARFUM: CITRAL",
+        "FRAGRANCE (PARFUM: CITRONELLOL",
+        "FRAGRANCE (PARFUM)COPOLYMER",
+        "FRAGRANCE (PARFUME)",
+        "FRAGRANCE (PARFUM/ESSENTIAL OIL)",
+        "FRAGRANCE/PARFUM (ESSENTIAL OIL)",
+        "FRAGRANCE/PARFUM (FRAGANCIA)",
+        "FRAGRANCE/PARFUM/FRAGANCIA",
+        "FRAGRANCE/PARFUM (FRAGRANCE)",
+        "FRAGRANCE / PARFUM (FRAGRANCIA)",
+        "FRAGRANCE/PARFUM/FRAGRANCIA",
+        "FRAGRANCE (PARFUM: LIMONENE",
+        "FRAGRANCE/PARFUM (NATURAL ESSENTIAL OILS)",
+        "FRAGRANCE (PARFUM) (PARFUM)",
+        "FRAGRANCE/PARFUM PPG-3 MYRISTYL ETHER",
+        "FRAGRANCE (PERFUME)",
+        "FRAGRANCE/PERFUME",
+        "FRAGRANCE / PERFUME (FRAGANCIA)",
+        "FRAGRANCE\tPLEASANT SCENT",
+        "FRAGRANCE POFL 147",
+        "FRAGRANCE (PROPRIETARY ESSENTIAL OIL BLEND)",
+        "FRAGRANCE (ROSE)",
+        "FRAGRANCES",
+        "FRAGRANCE SODIUM",
+        "FRAGRANCES OF BLACKBERRIES: ALPHA ISOMETHYL IONONE",
+        "FRAGRANCES OF FEIJOA",
+        "FRAGRANCES OF GARDENIA: ALPHA ISOMETHYL IONONE",
+        "FRAGRANCE STEARAMIDE AMP",
+        "FRAGRANCE (SUPPLEMENT)",
+        "FRAGRANCE VERIFIED WITH NO PHTHALATES (PARFUM)",
+        "FRAGRANCE. WATER",
+        "FRAGRANCE WITH ESSENTIAL OIL",
+        "FRAGRANCE WITH ESSENTIAL OILS",
+        "FRAGRANCE (WITH ESSENTIALS OILS)",
+        "FRAGRANE (PARFUM)",
+        "FRAGRANS (NUTMEG) KERNEL OIL",
+        "FRAGRANT OIL",
+        "FRAGRANT OILS",
+        "FRAGRANT OILSA",
+        "FRANGRANCE (PARFUM)",
+        "FRANGRANCE/PARFUM TRISODIUM EDTA",
+        "GERANIOL (FRAGRANCE )",
+        "GINGER ESSENCE FRAGRANCE",
+        "GRAGRANCE (PARFUM)",
+        "GRAIN ALCOHOL NATURAL FRAGRANCE",
+        "HERBAL FRAGRANCE",
+        "HEXYL CINNAMAL (FRAGRANCE )",
+        "HYDROXYCITRONELLAL (FRAGRANCE )",
+        "KUUMBA MADE FRAGRANCE OIL",
+        "LIMONENE (FRAGRANCE )",
+        "LINALOOL (FRAGRANCE )",
+        "MASKING FRAGRANCE",
+        "MASKING FRAGRANCE (PARFUM)",
+        "MENTHOL (FRAGRANCE/COOLING AGENT)",
+        "MURIATIC FRAGRANT (NUTMEG) EXTRACT",
+        "MUSK FRAGRANCE OIL",
+        "NATURAL FRAGRANCE GLYCERYL CAPRYLATE",
+        "NATURAL FRAGRANCE MADE",
+        "NATURAL FRAGRANCE MADE WITH ESSENTIAL OILS",
+        "NATURAL FRAGRANCE OF SWEET ORANGE, LEMON, LIME, MINT, MIMOSA, GALBANUM, COCONUT AND VANILLA",
+        "PARFUM",
+        "PARFUME",
+        "PARFUMED AU PAMPLEMOUSSE",
+        "PARFUM (ESSENTIAL OIL",
+        "PARFUM (ESSENTIAL OIL)",
+        "PARFUM (ESSENTIAL OILS)",
+        "PARFUM (ESSENTIAL OILS)*",
+        "PARFUM (ESSENTIALOILS)",
+        "PARFUM/FARGRANCE",
+        "PARFUM FIL K50699/5",
+        "PARFUM (FRAGANCE)",
+        "PARFUM/FRAGANCE",
+        "PARFUM/FRAGARANCE",
+        "PARFUM/FRAGEANCE",
+        "PARFUMFRAGRANCE",
+        "PARFUM FRAGRANCE",
+        "PARFUM /FRAGRANCE",
+        "PARFUM / FRAGRANCE",
+        "PARFUM (FRAGRANCE)",
+        "PARFUM (FRAGRANCE).",
+        "PARFUM (FRAGRANCE)†",
+        "PARFUM/FRAGRANCE",
+        "PARFUM/ FRAGRANCE",
+        "PARFUM/FRAGRANCE.",
+        "PARFUM(FRAGRANCE)",
+        "PARFUM/FRAGRANCE (FRAGRANCE)",
+        "PARFUM / FRAGRANCEHEXYL",
+        "PARFUM (FRAGRANCE VERIFIED WITH NO PHTHALATES)",
+        "PARFUM (FRANGRANCE)",
+        "PARFUM: LIMONENE",
+        "PARFUM: LIMONENE SODIUM GLUCONATE",
+        "PARFUM. MAY CONTAIN / PEUT CONTENIR",
+        "PARFUM (ORGANIC ESSENTIAL OIL BLEND)",
+        "PARFUM (PACIFICA OWN FRAGRANCE)",
+        "PARFUM (PACIFICA'S OWN WITH NATURAL",
+        "PARFUM (PARFUM)",
+        "PARFUM (PERFUME)",
+        "PARFUM (PERFUME/FRAGRANCE)",
+        "PARFUM (SOURCE: PLANT)",
+        "PARFUM (WITH NATURAL",
+        "PARFUM WITH NATURAL",
+        "PARFUM WITH NATURAL EXTRACTS",
+        "PARFUM WITH NATURAL EXTRACTS.",
+        "PARFUN",
+        "PARFUN/FRAGRANC",
+        "PARTUM/FRAGRANCE",
+        "PEAR-A-DICE FRAGRANCE OIL",
+        "PERFUME",
+        "PERFUME (FRAGRANCE)",
+        "PHENETHYL ALCOHOL (FRAGRANCE )",
+        "PHENOXYETHANOL FRAGRANCE (PARFUM)",
+        "PINEAPPLE MANGO FRAGRANCE",
+        "PLUMERIA FRAGRANCE",
+        "PROPRIETARY FRAGRANCE",
+        "PROPYLPARABEN PARFUM",
+        "ROSA DAMASCENA FLOWER EXTRACT (FRAGRANCE )",
+        "SILANETRIOL FRAGRANCE",
+        "SODIUM BENZOATE PARFUM (FRANGRANCE)",
+        "TRIDECETH-6 FRAGRANCE",
+        "WHITE PINE ESSENTIAL OIL FRAGRANCE"
+      ],
+      "usage": "A combination of nearly 3000 fragrant ingredients is added to most personal care products to mask odours or add a pleasant scent. ",
+      "explanation": "Our rating to \"Fragrance\" applies to manufacturers who labelled \"Fragrance\" with no clear company policy on whether they use synthetic or all-natural fragrances. If companies have clear policies on their usage, with a combination of credible organic certifiers, \"Fragrance\" will be the review on a case by case basis. The overall ratings of the individual product might improve pending such review. The major concern with fragrance is that it is not required by law to disclose the individual ingredients used to produce it. Therefore, many fragrance ingredients which are harmful can be omitted from the label. While it is often a mix of synthetic and natural ingredients, fragrance commonly consists of harmful constituents such as phthalates. In US FDA law, 21 CFR 701.3(a) Fragrance and Flavors section. \r\n\r\nFragrance and flavour compounds may be declared in descending order of predominance as \"fragrance\" and \"flavour.\" If a fragrance compound also serves as a flavour, it must be declared as \"flavour and fragrance.\" The components (ingredient) of a fragrance or flavour may also be declared individually by their appropriate label names. The ingredient or mixture of ingredients acting as a masking agent, i.e., covering the undesirable off-odour of a product without adding a discernable odour to it, may be declared by their name(s) or as \"fragrance\" (instead of a better designation). A masking agent present in a product at an insignificant level may be considered an incidental ingredient under § 701.3(1)(2)(iii) in which case it need not be declared on the label.\r\n\r\nFDA does not have the same legal authority to require allergen labeling for cosmetics as for food. So, if you are concerned about fragrance sensitivities, you may want to choose products that are fragrance free, and check the ingredient list carefully. If consumers have questions, they may choose to contact the manufacturer directly.\r\n\r\nAccording to EU Article 19 (1) Regulation No. 1223/2009 (cosmetics regulation), cosmetic products should list their ingredients on the packaging. However, perfume aromatic compositions and their raw materials are referred to as ‘parfum’ or ‘aroma’. Substances for which the cosmetics regulation provides individual labelling are an exception to this terminology. At the moment, 26 fragrance allergens are subject to individual labelling (EU annex III of the cosmetics regulation).\r\n\r\nCanada uses the international naming convention for cosmetics, INCI. Under this naming convention, components of a fragrance can be listed as individual ingredients or can be listed under the term \"parfum\" (in the E.U. and Canada) or \"fragrance\" (in the U.S.).\r\n\r\nWhile some people are only mildly affected by scents, others have severe reactions. Some common symptoms include: headaches, feeling dizzy, feeling tired or weak, shortness of breath, nausea, cold-like symptoms,and worsening asthma symptoms.\r\n",
+      "notes": "Our rating to \"Fragrance\" is applicable to manufacturers who labelled \"Fragrance\" with no clear company policy on whether they use synthetic or all-natural fragrances. If companies have clear policies on their usage, with combination of credible organic certifiers, \"Fragrance\" will be review on a case by case basis. The overall ratings of individual product might improve pending such review. The major concern with fragrance is that it is not required by law to disclose the individual ingredients used to produce it. Therefore, many fragrance ingredients which are harmful can be omitted from the label due to the company's trade secret. \r\n\r\nIn fact according to the FDA, Fragrance ingredients in cosmetics must meet the same requirement for safety as other cosmetic ingredients. Thought the he law does not require FDA approval before they go on the market, but they must be safe for consumers when they are used according to labeled directions, or as people customarily use them. Companies and individuals who manufacture or market cosmetics have a legal responsibility for ensuring that their products are safe and properly labeled.\r\n\r\nEvery Chemical that falls under the Fragrance category might not be carcinogenic.\r\n\r\n1.Fragrance might contain various chemicals but Phthalates are a group of chemicals used in hundreds of products. The phthalate commonly used in fragrance products is diethyl phthalate, or DEP. DEP does not pose known risks for human health as it is currently used in cosmetics and fragrances. In fact in 2002, the Cosmetic Ingredient Review (CIR) Expert Panel reaffirmed its original conclusion (reached in 1985), finding that DBP, DMP, and DEP were safe as used in cosmetic products. FDA reviewed the safety and toxicity data for phthalates, including the CDC data from 2001, as well as the CIR conclusions based on reviews in 1985 and 2002. Based on this information, FDA determined that there wasn’t a sound, scientific basis to support taking regulatory action against cosmetics containing phthalates.\r\n\r\n2.Although all other ingredients in your lip gloss, body wash and other scented cosmetic products must be disclosed on the label by specific name, the so-called “fragrance loophole” in federal labeling law means that ingredients added to provide a pleasant scent, or to mask a bad one, need only be listed under the generic term “fragrance.” We know only that styrene might be an ingredient in any given fragrance because the International Fragrance Association, an industry trade group, publishes an online “Transparency List” of ingredients that perfumers say they use in formulas for consumer products. Styrene is one of the 3,000-odd ingredients on the list. Moreover it MIGHT also contain other chemicals that are carcinogenic.\r\n\r\nConsidering these facts and since not all the chemicals under fragrance aren't carcinogens, it is only right to say that the cosmetic product that we use might or might not be carcinogenic because of the \"fragrance loophole\". This is exactly why we have justly rated the product as \"POSSIBLE CARCINOGEN\" and not \"PROVEN TO BE CARCINOGEN\".",
+      "hazards": [
+        {
+          "benefit": false,
+          "created_at": "2013-05-01T00:11:27-04:00",
+          "id": 26,
+          "name": "Skin irritation",
+          "rating": 3,
+          "short_name": "SI",
+          "updated_at": "2013-05-01T00:11:27-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-10-01T16:42:14-04:00",
+          "id": 123,
+          "name": "Sensitizing Effect",
+          "rating": 3,
+          "short_name": "",
+          "updated_at": "2017-06-23T14:19:44-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-06-24T20:25:25-04:00",
+          "id": 94,
+          "name": "Respiratory and skin irritation",
+          "rating": 4,
+          "short_name": "Respiratory and skin irritation",
+          "updated_at": "2018-04-19T13:33:40-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2013-08-22T12:42:18-04:00",
+          "id": 41,
+          "name": "Possible Carcinogen",
+          "rating": 8,
+          "short_name": "PC",
+          "updated_at": "2018-04-21T18:46:16-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-09-30T12:53:54-04:00",
+          "id": 118,
+          "name": "Possible allergic reactions",
+          "rating": 3,
+          "short_name": "Possible allergic reactions",
+          "updated_at": "2019-11-27T16:16:02-05:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-08-24T23:47:40-04:00",
+          "id": 110,
+          "name": "May cause skin irritation",
+          "rating": 2,
+          "short_name": "May cause skin irritation",
+          "updated_at": "2014-08-25T23:37:53-04:00"
+        }
+      ],
+      "warning_agencies": [
+        {
+          "created_at": "2014-04-12T18:39:32-04:00",
+          "id": 79,
+          "jurisdiction": "Canada",
+          "link": "http://www.hc-sc.gc.ca/cps-spc/pubs/pest/_pol-guide/dir2013-02/index-eng.php#a3.10",
+          "name": "Health Canada Consumer Product Safety Definition of Odour or Fragrance",
+          "short_name": "Health Canada Consumer Product Safety Definition of Odour or Fragrance",
+          "updated_at": "2014-04-12T18:41:11-04:00"
+        },
+        {
+          "created_at": "2014-04-12T18:36:33-04:00",
+          "id": 78,
+          "jurisdiction": "Canada",
+          "link": "http://www.ccohs.ca/oshanswers/hsprograms/scent_free.html",
+          "name": "Canadian Centre for Occupational Health and Safety Scent-Free Policy for the Workpace",
+          "short_name": "Canadian Centre for Occupational Health and Safety Scent-Free Policy for the Workpace",
+          "updated_at": "2014-04-12T18:36:33-04:00"
+        }
+      ],
+      "sources": [
+        {
+          "created_at": "2013-02-27T01:39:28-05:00",
+          "id": 3,
+          "link": null,
+          "name": "Breast Cancer Fund Chemicals Linked to Breast Cancer",
+          "short_name": "BCF",
+          "updated_at": "2013-03-03T01:03:08-05:00"
+        },
+        {
+          "created_at": "2020-08-18T09:03:06-04:00",
+          "id": 3617,
+          "link": "https://www.lung.ca/lung-health/air-quality/indoor-air-quality/scents",
+          "name": "BREATHE the lung association: Scents. (2019). Retrieved August 18, 2020, from https://www.lung.ca/lung-health/air-quality/indoor-air-quality/scents",
+          "short_name": "",
+          "updated_at": "2020-08-18T09:03:06-04:00"
+        },
+        {
+          "created_at": "2020-08-18T09:15:07-04:00",
+          "id": 3619,
+          "link": "http://www.safecosmetics.org/get-the-facts/chemicals-of-concern/fragrance/",
+          "name": "Campaign for Safe Cosmetics on Fragrance. (n.d.). Retrieved August 18, 2020, from http://www.safecosmetics.org/get-the-facts/chemicals-of-concern/fragrance/",
+          "short_name": "",
+          "updated_at": "2020-08-18T09:15:07-04:00"
+        },
+        {
+          "created_at": "2014-04-06T15:51:46-04:00",
+          "id": 96,
+          "link": "http://www.lung.ca/protect-protegez/pollution-pollution/indoor-interieur/scents-parfums_e.php",
+          "name": "Canadian Lung Association on Fragrances",
+          "short_name": "Canadian Lung Association on Fragrances",
+          "updated_at": "2014-04-06T15:51:46-04:00"
+        },
+        {
+          "created_at": "2013-02-27T01:39:22-05:00",
+          "id": 2,
+          "link": "http://www.davidsuzuki.org/issues/health/science/toxics/dirty-dozen-cosmetic-chemicals/",
+          "name": "David Suzuki Foundation Dirty Dozen",
+          "short_name": "DSF",
+          "updated_at": "2014-03-07T20:38:31-05:00"
+        },
+        {
+          "created_at": "2014-04-06T15:39:37-04:00",
+          "id": 93,
+          "link": "http://davidsuzuki.org/issues/health/science/toxics/fragrance-and-parfum/",
+          "name": "David Suzuki Foundation on Fragrances",
+          "short_name": "David Suzuki Foundation on Fragrances",
+          "updated_at": "2014-04-06T15:39:37-04:00"
+        },
+        {
+          "created_at": "2013-02-27T01:39:16-05:00",
+          "id": 1,
+          "link": null,
+          "name": "Environmental Defense Canada Toxic Ten",
+          "short_name": "ED",
+          "updated_at": "2013-03-02T10:46:05-05:00"
+        },
+        {
+          "created_at": "2020-08-18T09:30:05-04:00",
+          "id": 3621,
+          "link": "https://ec.europa.eu/health/scientific_committees/opinions_layman/perfume-allergies/en/index.htm",
+          "name": "EU HEALTH AND CONSUMERS Scientific Committees: Perfume Allergies. (n.d.). Retrieved August 18, 2020, from https://ec.europa.eu/health/scientific_committees/opinions_layman/perfume-allergies/en/index.htm",
+          "short_name": "",
+          "updated_at": "2020-08-18T09:30:05-04:00"
+        },
+        {
+          "created_at": "2020-08-18T09:12:49-04:00",
+          "id": 3618,
+          "link": "https://www.fda.gov/cosmetics/cosmetic-ingredients/fragrances-cosmetics",
+          "name": "FDA Fragrances in Cosmetics. (2018). Retrieved August 18, 2020, from https://www.fda.gov/cosmetics/cosmetic-ingredients/fragrances-cosmetics",
+          "short_name": "",
+          "updated_at": "2020-08-18T09:12:49-04:00"
+        },
+        {
+          "created_at": "2020-08-18T09:42:52-04:00",
+          "id": 3622,
+          "link": "https://www.canada.ca/en/health-canada/services/consumer-product-safety/cosmetics/labelling/safety-ingredients.html#a4.5",
+          "name": "Health Canada: Safety of Cosmetic Ingredients. (2020). Retrieved August 18, 2020, from https://www.canada.ca/en/health-canada/services/consumer-product-safety/cosmetics/labelling/safety-ingredients.html#a4.5",
+          "short_name": "",
+          "updated_at": "2020-08-18T09:42:52-04:00"
+        },
+        {
+          "created_at": "2014-04-06T15:38:09-04:00",
+          "id": 92,
+          "link": "http://www.ifraorg.org/en-us/standards-library/snew",
+          "name": "IFRA standards, a self-governing organization that sets safety standards for all natural and non-natural aroma compounds",
+          "short_name": "IFRA",
+          "updated_at": "2014-04-06T15:38:09-04:00"
+        },
+        {
+          "created_at": "2020-08-18T09:28:04-04:00",
+          "id": 3620,
+          "link": "https://ec.europa.eu/health/scientific_committees/consumer_safety/docs/sccs_o_102.pdf",
+          "name": "SCCS OPINION on Fragrance allergens in cosmetic products. (2012). Retrieved August 18, 2020, from https://ec.europa.eu/health/scientific_committees/consumer_safety/docs/sccs_o_102.pdf",
+          "short_name": "",
+          "updated_at": "2020-08-18T09:28:04-04:00"
+        },
+        {
+          "created_at": "2020-08-18T09:47:12-04:00",
+          "id": 3623,
+          "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6040011/",
+          "name": "Uter W. (2017). Contact allergy to fragrances: current clinical and regulatory trends. Allergologie select, 1(2), 190–199. https://doi.org/10.5414/ALX01604E",
+          "short_name": "",
+          "updated_at": "2020-08-18T09:47:12-04:00"
+        },
+        {
+          "created_at": "2014-07-09T14:33:47-04:00",
+          "id": 235,
+          "link": "https://www.wholefoodsmarket.com/premium-body-care-unacceptable-ingredients",
+          "name": "Whole Foods Market Premium Body Care Standards Unacceptable Ingredients",
+          "short_name": "Whole Foods Market Premium Body Care Standards Unacceptable Ingredients",
+          "updated_at": "2018-05-09T11:13:48-04:00"
+        }
+      ]
+    }
+  },
+  {
+    "ingredient": {
+      "cas_number": "71-43-2",
+      "created_at": "2013-03-31T12:13:28-04:00",
+      "id": 14,
+      "inci_name": "",
+      "more_info": null,
+      "name": "BTEX (BENZENE, TOLUENE, ETHYLBENZENE, AND XYLENE)",
+      "organic": false,
+      "pubmed_count": 0,
+      "pubmed_term": "TOULENE",
+      "updated_at": "2018-02-27T17:42:09-05:00",
+      "ingredient_alias_names": [
+        "TOLUENE 2",
+        "TOLUENE-2"
+      ],
+      "usage": "It's a clear, water-insoluble liquid with the typical smell of paint thinners. It is a mono-substituted benzene derivative, i.e., one in which a single hydrogen atom from a group of six atoms from the benzene molecule has been replaced by a univalent group, in this case CH3. As such, its IUPAC systematic name is methylbenzene. Used in nail polishes with Toulene. BTEX is an acronym for benzene, toluene, ethylbenzene, and xylene. This group of volatile organic compounds (VOCs) is found in petroleum hydrocarbons, such as gasoline, and other common environmental contaminants.  ",
+      "explanation": "",
+      "notes": "http://www.cdph.ca.gov/programs/cosmetics/Documents/chemlist.pdf\r\n\r\nhttp://www.eugris.info/FurtherDescription.asp?Ca=2&Cy=0&T=Benzene,%20toluene,%20ethylbenzene,%20and%20xylene&e=6\r\n\r\nhttp://ntp.niehs.nih.gov/ntp/roc/twelfth/profiles/benzene.pdf",
+      "hazards": [
+        {
+          "benefit": false,
+          "created_at": "2013-08-22T12:42:18-04:00",
+          "id": 41,
+          "name": "Possible Carcinogen",
+          "rating": 8,
+          "short_name": "PC",
+          "updated_at": "2018-04-21T18:46:16-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-03-09T21:13:30-04:00",
+          "id": 61,
+          "name": "Low Possible Carcinogen",
+          "rating": 5,
+          "short_name": "Low Possible Carcinogen",
+          "updated_at": "2014-08-27T01:26:55-04:00"
+        }
+      ],
+      "warning_agencies": [
+        {
+          "created_at": "2013-02-27T01:40:25-05:00",
+          "id": 1,
+          "jurisdiction": "Canada",
+          "link": "https://www.canada.ca/en/health-canada/services/consumer-product-safety/cosmetics/cosmetic-ingredient-hotlist-prohibited-restricted-ingredients/hotlist.html",
+          "name": "Health Canada Hot list - The Hotlist is used to keep the cosmetic industry aware of substances that are restricted or prohibited in cosmetics. It has no legal authority and cannot be enforced.",
+          "short_name": "CHL",
+          "updated_at": "2018-04-21T18:50:15-04:00"
+        },
+        {
+          "created_at": "2013-05-03T22:16:17-04:00",
+          "id": 22,
+          "jurisdiction": "EU",
+          "link": null,
+          "name": "EU CosIng Cosmetic Ingredients and Substance List of Prohibited Substance",
+          "short_name": "EUCosIng",
+          "updated_at": "2013-07-05T23:13:26-04:00"
+        },
+        {
+          "created_at": "2013-03-31T17:34:49-04:00",
+          "id": 12,
+          "jurisdiction": "US",
+          "link": "http://ntp.niehs.nih.gov/",
+          "name": "National Toxicology Program",
+          "short_name": "NTP",
+          "updated_at": "2014-04-12T18:54:21-04:00"
+        },
+        {
+          "created_at": "2014-04-12T19:00:21-04:00",
+          "id": 81,
+          "jurisdiction": "US",
+          "link": "http://ntp.niehs.nih.gov/?objectid=03C9AF75-E1BF-FF40-DBA9EC0928DF8B15",
+          "name": "National Toxicology Program: 12th Report on Carcinogens ",
+          "short_name": "National Toxicology Program: 12th Report on Carcinogens ",
+          "updated_at": "2014-04-12T19:00:21-04:00"
+        },
+        {
+          "created_at": "2013-03-31T12:25:58-04:00",
+          "id": 6,
+          "jurisdiction": "California, US",
+          "link": "http://oehha.ca.gov/prop65/prop65_list/files/P65single040414.pdf",
+          "name": "Proposition 65 The Safe Drinking Water and Toxic Enforcement Act of 1986",
+          "short_name": "P65",
+          "updated_at": "2014-04-11T22:41:49-04:00"
+        },
+        {
+          "created_at": "2013-06-03T20:17:43-04:00",
+          "id": 24,
+          "jurisdiction": "US",
+          "link": null,
+          "name": "California Department Of Public Health  Occupational Health Branch California Safe Cosmetics Program",
+          "short_name": "CSCP",
+          "updated_at": "2013-06-03T20:18:17-04:00"
+        },
+        {
+          "created_at": "2013-08-22T12:41:33-04:00",
+          "id": 30,
+          "jurisdiction": "International",
+          "link": "http://en.wikipedia.org/wiki/List_of_IARC_Group_2B_carcinogens",
+          "name": "IARC Category 2B Possible Carcinogen",
+          "short_name": "IARC",
+          "updated_at": "2014-04-11T22:43:06-04:00"
+        }
+      ],
+      "sources": [
+        {
+          "created_at": "2013-02-27T01:39:28-05:00",
+          "id": 3,
+          "link": null,
+          "name": "Breast Cancer Fund Chemicals Linked to Breast Cancer",
+          "short_name": "BCF",
+          "updated_at": "2013-03-03T01:03:08-05:00"
+        },
+        {
+          "created_at": "2014-04-03T13:13:32-04:00",
+          "id": 88,
+          "link": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1469723/",
+          "name": "Carcinogenic potential of benzene and toluene when evaluated using cyclin-dependent kinase activation and p53-DNA binding.  Environ Health Perspect. Dec 1996; 104(Suppl 6): 1289–1292.",
+          "short_name": "Carcinogenic potential of benzene and toluene when evaluated using cyclin-dependent kinase activation and p53-DNA binding.  Environ Health Perspect. Dec 1996; 104(Suppl 6): 1289–1292.",
+          "updated_at": "2014-04-03T13:13:32-04:00"
+        },
+        {
+          "created_at": "2014-04-17T22:42:51-04:00",
+          "id": 132,
+          "link": "http://ntp.niehs.nih.gov/ntp/roc/twelfth/profiles/benzene.pdf",
+          "name": "National Toxicology Program Report on Carcinogens, Twelfth Edition (2011) Benzene",
+          "short_name": "National Toxicology Program Report on Carcinogens, Twelfth Edition (2011) Benzene",
+          "updated_at": "2014-04-17T22:42:51-04:00"
+        },
+        {
+          "created_at": "2014-04-06T00:16:29-04:00",
+          "id": 90,
+          "link": "http://saferchemicals.org/sc/wp-content/uploads/2014/11/mindthestore.org-full-list-toxic-chemicals.pdf",
+          "name": "Safer Chemicals Hazardous 100 List",
+          "short_name": "Safer Chemicals Hazardous 100 List",
+          "updated_at": "2015-09-29T14:17:21-04:00"
+        }
+      ]
+    }
+  },
+  {
+    "ingredient": {
+      "cas_number": "84-74-2",
+      "created_at": "2013-03-31T12:24:40-04:00",
+      "id": 16,
+      "inci_name": "",
+      "more_info": null,
+      "name": "DIBUTYL PHTHALATE",
+      "organic": false,
+      "pubmed_count": 0,
+      "pubmed_term": "Dibutyl phthalate",
+      "updated_at": "2020-07-27T14:10:30-04:00",
+      "ingredient_alias_names": [
+        "DBP",
+        "DIBUTYL PHTHALATE",
+        "DI-N-BUTYL PHTHALATE",
+        "N-BUTYL PHTHALATE",
+        "PALATINOL C"
+      ],
+      "usage": "It's used mainly in nail products as a solvent for dyes and as a plasticizer that prevents nail polishes from becoming brittle. ",
+      "explanation": "Dibutyl phthalate is an endocrine disruptor and a developmental toxicant that\r\nharms male reproductive system development. It can cause early puberty in boys and other changes in the reproductive system.",
+      "notes": "Marked as a Sephora high-priority chemical - Sephora to reduce the number of products containing any of their high priority chemicals by 50% in 3 years\r\nhttps://www.sephorastands.com/wp-content/uploads/Sephora-Public-Chemicals-Policy-2019.pdf\r\n\r\nhttp://mindthestore.saferchemicals.org/pdf/mindthestore.org-full-list-toxic-chemicals.pdf\r\n\r\nhttps://www.maine.gov/dep/safechem/rules.html\r\n\r\nhttp://www.health.state.mn.us/divs/eh/hazardous/topics/toxfreekids/priority.html\r\n\r\nhttp://sinlist.chemsec.org/chemical/84-74-2_dibutyl-phthalate-dbp\r\nhttps://cdn3.ewg.org/sites/default/files/u352/EWG_Toxic20List_C02.pdf?_ga=2.122190158.497058190.1582755413-1712725879.1582755413",
+      "hazards": [
+        {
+          "benefit": false,
+          "created_at": "2014-12-29T12:03:31-05:00",
+          "id": 143,
+          "name": "Toxic to aquatic organisms",
+          "rating": 2,
+          "short_name": "ecotoxic",
+          "updated_at": "2015-01-25T21:46:00-05:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2013-06-01T00:25:48-04:00",
+          "id": 33,
+          "name": "Endocrine Disruptor",
+          "rating": 9,
+          "short_name": "ED",
+          "updated_at": "2013-06-01T00:25:48-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2013-02-27T01:38:41-05:00",
+          "id": 11,
+          "name": "Allergy",
+          "rating": 3,
+          "short_name": "AG",
+          "updated_at": "2018-04-19T13:32:01-04:00"
+        },
+        {
+          "benefit": null,
+          "created_at": "2013-02-27T01:38:18-05:00",
+          "id": 8,
+          "name": "Male Reproductive Health Interference",
+          "rating": 8,
+          "short_name": "TP",
+          "updated_at": "2013-03-02T23:39:49-05:00"
+        }
+      ],
+      "warning_agencies": [
+        {
+          "created_at": "2013-02-27T01:40:33-05:00",
+          "id": 2,
+          "jurisdiction": "EU",
+          "link": null,
+          "name": "Limit use by EU Coslng",
+          "short_name": "LEU",
+          "updated_at": "2013-04-26T11:27:18-04:00"
+        },
+        {
+          "created_at": "2013-03-31T12:25:58-04:00",
+          "id": 6,
+          "jurisdiction": "California, US",
+          "link": "http://oehha.ca.gov/prop65/prop65_list/files/P65single040414.pdf",
+          "name": "Proposition 65 The Safe Drinking Water and Toxic Enforcement Act of 1986",
+          "short_name": "P65",
+          "updated_at": "2014-04-11T22:41:49-04:00"
+        },
+        {
+          "created_at": "2014-04-06T00:18:07-04:00",
+          "id": 67,
+          "jurisdiction": "US",
+          "link": "https://www.maine.gov/dep/safechem/rules.html",
+          "name": "MAINE: State of Maine \"Designated Priority Chemicals\"",
+          "short_name": "MAINE: State of Maine \"Designated Priority Chemicals\"",
+          "updated_at": "2014-04-06T00:18:07-04:00"
+        },
+        {
+          "created_at": "2014-04-06T00:19:28-04:00",
+          "id": 68,
+          "jurisdiction": "US",
+          "link": "http://www.health.state.mn.us/divs/eh/hazardous/topics/toxfreekids/priority.html",
+          "name": "MINNESOTA: State of Minnesota \"List of Priority Chemicals\"",
+          "short_name": "MINNESOTA: State of Minnesota \"List of Priority Chemicals\"",
+          "updated_at": "2014-04-06T00:19:28-04:00"
+        },
+        {
+          "created_at": "2014-04-06T00:20:27-04:00",
+          "id": 69,
+          "jurisdiction": "US",
+          "link": "http://www.ecy.wa.gov/programs/swfa/cspa/chcc.html",
+          "name": "WASHINGTON: State of Washington \"List of Chemicals of High Concern to Children\"",
+          "short_name": "WASHINGTON: State of Washington \"List of Chemicals of High Concern to Children\"",
+          "updated_at": "2014-04-06T00:20:27-04:00"
+        },
+        {
+          "created_at": "2014-04-06T00:21:14-04:00",
+          "id": 70,
+          "jurisdiction": "US",
+          "link": "http://www.epa.gov/oppt/existingchemicals/pubs/ecactionpln.html",
+          "name": "US EPA: United States Environmental Protection Agency \"Existing Chemicals Action Plans\"",
+          "short_name": "US EPA: United States Environmental Protection Agency \"Existing Chemicals Action Plans\"",
+          "updated_at": "2014-04-06T00:21:14-04:00"
+        },
+        {
+          "created_at": "2014-04-06T00:22:23-04:00",
+          "id": 71,
+          "jurisdiction": "EU",
+          "link": "http://echa.europa.eu/addressing-chemicals-of-concern/authorisation/recommendation-for-inclusion-in-the-authorisation-list/authorisation-list",
+          "name": "EU REACH: European Union: \"Authorisation List\" (A)   \"Candidate List of Substances of Very High Concern for Authorisation\" (C)",
+          "short_name": "EU REACH: European Union: \"Authorisation List\" (A)   \"Candidate List of Substances of Very High Concern for Authorisation\" (C)",
+          "updated_at": "2014-04-06T00:22:23-04:00"
+        },
+        {
+          "created_at": "2020-02-26T14:22:33-05:00",
+          "id": 138,
+          "jurisdiction": "California, US",
+          "link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB495",
+          "name": "California Aseembly Bill 145 Restricted Chemical",
+          "short_name": "California Aseembly Bill 145 Restricted Chemical",
+          "updated_at": "2020-02-26T14:22:33-05:00"
+        },
+        {
+          "created_at": "2016-05-24T13:47:39-04:00",
+          "id": 131,
+          "jurisdiction": "EU",
+          "link": "http://sinlist.chemsec.org/chemical/84-74-2_dibutyl-phthalate-dbp",
+          "name": "ChemSec - SINList - Dibutyl phthalate, DBP",
+          "short_name": "ChemSec - SINList - Dibutyl phthalate, DBP",
+          "updated_at": "2016-05-24T13:47:39-04:00"
+        },
+        {
+          "created_at": "2013-05-03T22:16:17-04:00",
+          "id": 22,
+          "jurisdiction": "EU",
+          "link": null,
+          "name": "EU CosIng Cosmetic Ingredients and Substance List of Prohibited Substance",
+          "short_name": "EUCosIng",
+          "updated_at": "2013-07-05T23:13:26-04:00"
+        },
+        {
+          "created_at": "2020-10-05T09:21:25-04:00",
+          "id": 141,
+          "jurisdiction": "California",
+          "link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB2762",
+          "name": "California Toxic-Free Cosmetics Act (CA AB 2762)",
+          "short_name": "",
+          "updated_at": "2020-10-05T09:21:25-04:00"
+        }
+      ],
+      "sources": [
+        {
+          "created_at": "2020-10-05T09:22:40-04:00",
+          "id": 3699,
+          "link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB2762",
+          "name": "AB-2762 Cosmetic products: safety. (2020). Retrieved October 5, 2020, from https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB2762",
+          "short_name": "",
+          "updated_at": "2020-10-05T09:22:40-04:00"
+        },
+        {
+          "created_at": "2016-04-01T16:45:36-04:00",
+          "id": 1287,
+          "link": "http://sinlist.chemsec.org/",
+          "name": "ChemSec – the International Chemical Secretariat SIN List",
+          "short_name": "ChemSec",
+          "updated_at": "2016-04-01T16:46:19-04:00"
+        },
+        {
+          "created_at": "2013-02-27T01:39:22-05:00",
+          "id": 2,
+          "link": "http://www.davidsuzuki.org/issues/health/science/toxics/dirty-dozen-cosmetic-chemicals/",
+          "name": "David Suzuki Foundation Dirty Dozen",
+          "short_name": "DSF",
+          "updated_at": "2014-03-07T20:38:31-05:00"
+        },
+        {
+          "created_at": "2013-02-27T01:39:16-05:00",
+          "id": 1,
+          "link": null,
+          "name": "Environmental Defense Canada Toxic Ten",
+          "short_name": "ED",
+          "updated_at": "2013-03-02T10:46:05-05:00"
+        },
+        {
+          "created_at": "2014-04-06T00:16:29-04:00",
+          "id": 90,
+          "link": "http://saferchemicals.org/sc/wp-content/uploads/2014/11/mindthestore.org-full-list-toxic-chemicals.pdf",
+          "name": "Safer Chemicals Hazardous 100 List",
+          "short_name": "Safer Chemicals Hazardous 100 List",
+          "updated_at": "2015-09-29T14:17:21-04:00"
+        },
+        {
+          "created_at": "2020-07-27T13:39:35-04:00",
+          "id": 3593,
+          "link": "https://www.sephorastands.com/wp-content/uploads/Sephora-Public-Chemicals-Policy-2019.pdf",
+          "name": "Sephora Safer Chemical Policy - High-Priority Chemicals ",
+          "short_name": "Sephora High-Priority Chemicals ",
+          "updated_at": "2020-07-27T13:39:35-04:00"
+        }
+      ]
+    }
+  },
+  {
+    "ingredient": {
+      "cas_number": "",
+      "created_at": "2013-03-31T12:44:05-04:00",
+      "id": 17,
+      "inci_name": "",
+      "more_info": null,
+      "name": "STEARETH",
+      "organic": false,
+      "pubmed_count": 7,
+      "pubmed_term": "Steareth",
+      "updated_at": "2014-10-02T10:14:44-04:00",
+      "ingredient_alias_names": [
+        "DISTEARETH 100 IPDI",
+        "ISOSTEARETH-10",
+        "ISOSTEARETH-2",
+        "ISOSTEARETH-20",
+        "STEARETH-16"
+      ],
+      "usage": "Used in personal care products as an emulsifier and surfactant. Due to reactants used to produce the product, there may be concerns for contamination of either ethylene oxide, or byproduct 1,4 dioxane. This is a cause for concern since both are known human carcinogens . If pure, this chemical shows no signs of toxicity. ",
+      "explanation": null,
+      "notes": "",
+      "hazards": [
+        {
+          "benefit": false,
+          "created_at": "2013-08-22T12:42:18-04:00",
+          "id": 41,
+          "name": "Possible Carcinogen",
+          "rating": 8,
+          "short_name": "PC",
+          "updated_at": "2018-04-21T18:46:16-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2013-08-17T02:36:11-04:00",
+          "id": 34,
+          "name": "Mild Irritations when contact with Eyes",
+          "rating": 1,
+          "short_name": "MI",
+          "updated_at": "2014-10-21T09:35:33-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2013-05-05T22:39:26-04:00",
+          "id": 28,
+          "name": "Contamination concerns with Ethylene Oxide",
+          "rating": 4,
+          "short_name": "CC",
+          "updated_at": "2016-12-12T16:21:00-05:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2013-10-11T12:05:45-04:00",
+          "id": 47,
+          "name": "Contamination concerns with 1,4-DIOXANE",
+          "rating": 4,
+          "short_name": "CC 1,4-DIOXANE",
+          "updated_at": "2016-12-12T16:20:35-05:00"
+        }
+      ],
+      "warning_agencies": [
+        {
+          "created_at": "2013-03-31T12:25:58-04:00",
+          "id": 6,
+          "jurisdiction": "California, US",
+          "link": "http://oehha.ca.gov/prop65/prop65_list/files/P65single040414.pdf",
+          "name": "Proposition 65 The Safe Drinking Water and Toxic Enforcement Act of 1986",
+          "short_name": "P65",
+          "updated_at": "2014-04-11T22:41:49-04:00"
+        },
+        {
+          "created_at": "2014-03-03T22:36:05-05:00",
+          "id": 56,
+          "jurisdiction": "China",
+          "link": "http://www.chinadaily.com.cn/china/2009-03/21/content_7603271.htm",
+          "name": "1,4-Dioxane is found in small amounts in some cosmetics, a yet unregulated substance used in cosmetics in both China and the U.S.",
+          "short_name": "1,4-Dioxane is found in small amounts in some cosmetics, a yet unregulated substance used in cosmetics in both China and the U.S.",
+          "updated_at": "2014-03-03T22:36:05-05:00"
+        }
+      ],
+      "sources": [
+        {
+          "created_at": "2013-02-27T01:39:28-05:00",
+          "id": 3,
+          "link": null,
+          "name": "Breast Cancer Fund Chemicals Linked to Breast Cancer",
+          "short_name": "BCF",
+          "updated_at": "2013-03-03T01:03:08-05:00"
+        },
+        {
+          "created_at": "2013-11-18T16:03:07-05:00",
+          "id": 43,
+          "link": "http://www.fda.gov/cosmetics/productandingredientsafety/potentialcontaminants/ucm101566.htm",
+          "name": "U.S. Food and Drug Administration, Web Page on 1,4-Dioxane ",
+          "short_name": "FDA 1,4-Dioxane",
+          "updated_at": "2013-11-18T16:03:07-05:00"
+        }
+      ]
+    }
+  },
+  {
+    "ingredient": {
+      "cas_number": "75-21-8",
+      "created_at": "2013-03-31T12:47:47-04:00",
+      "id": 18,
+      "inci_name": "",
+      "more_info": null,
+      "name": "ETHYLENE OXIDE",
+      "organic": false,
+      "pubmed_count": 7528,
+      "pubmed_term": "Ethylene oxide",
+      "updated_at": "2014-03-03T23:19:56-05:00",
+      "ingredient_alias_names": [],
+      "usage": "Used in popular brands of shampoo. Contaminant In Facial Cleanser, Conditioner, Mascara, Shampoo, Etc",
+      "explanation": null,
+      "notes": "http://www.epa.gov/airtoxics/hlthef/ethylene.html",
+      "hazards": [
+        {
+          "benefit": null,
+          "created_at": "2013-02-27T01:38:18-05:00",
+          "id": 8,
+          "name": "Male Reproductive Health Interference",
+          "rating": 8,
+          "short_name": "TP",
+          "updated_at": "2013-03-02T23:39:49-05:00"
+        },
+        {
+          "benefit": null,
+          "created_at": "2013-02-27T01:24:51-05:00",
+          "id": 1,
+          "name": "Carcinogen",
+          "rating": 10,
+          "short_name": "CN",
+          "updated_at": "2013-02-27T21:05:23-05:00"
+        }
+      ],
+      "warning_agencies": [
+        {
+          "created_at": "2013-02-27T01:40:25-05:00",
+          "id": 1,
+          "jurisdiction": "Canada",
+          "link": "https://www.canada.ca/en/health-canada/services/consumer-product-safety/cosmetics/cosmetic-ingredient-hotlist-prohibited-restricted-ingredients/hotlist.html",
+          "name": "Health Canada Hot list - The Hotlist is used to keep the cosmetic industry aware of substances that are restricted or prohibited in cosmetics. It has no legal authority and cannot be enforced.",
+          "short_name": "CHL",
+          "updated_at": "2018-04-21T18:50:15-04:00"
+        },
+        {
+          "created_at": "2013-03-31T12:25:58-04:00",
+          "id": 6,
+          "jurisdiction": "California, US",
+          "link": "http://oehha.ca.gov/prop65/prop65_list/files/P65single040414.pdf",
+          "name": "Proposition 65 The Safe Drinking Water and Toxic Enforcement Act of 1986",
+          "short_name": "P65",
+          "updated_at": "2014-04-11T22:41:49-04:00"
+        },
+        {
+          "created_at": "2013-06-03T20:17:43-04:00",
+          "id": 24,
+          "jurisdiction": "US",
+          "link": null,
+          "name": "California Department Of Public Health  Occupational Health Branch California Safe Cosmetics Program",
+          "short_name": "CSCP",
+          "updated_at": "2013-06-03T20:18:17-04:00"
+        },
+        {
+          "created_at": "2014-03-03T23:17:50-05:00",
+          "id": 59,
+          "jurisdiction": "US",
+          "link": "http://www.epa.gov/airtoxics/hlthef/ethylene.html",
+          "name": "EPA on Ethylene Oxide Relatively small amounts of ethylene oxide are used as a fumigant, a sterilant for food (spices) and cosmetics, and in hospital sterilization of surgical equipment and plastic devices that cannot be sterilized by steam. ",
+          "short_name": "EPA on Ethylene Oxide",
+          "updated_at": "2014-03-03T23:17:50-05:00"
+        },
+        {
+          "created_at": "2013-05-03T22:16:17-04:00",
+          "id": 22,
+          "jurisdiction": "EU",
+          "link": null,
+          "name": "EU CosIng Cosmetic Ingredients and Substance List of Prohibited Substance",
+          "short_name": "EUCosIng",
+          "updated_at": "2013-07-05T23:13:26-04:00"
+        }
+      ],
+      "sources": [
+        {
+          "created_at": "2013-02-27T01:39:28-05:00",
+          "id": 3,
+          "link": null,
+          "name": "Breast Cancer Fund Chemicals Linked to Breast Cancer",
+          "short_name": "BCF",
+          "updated_at": "2013-03-03T01:03:08-05:00"
+        }
+      ]
+    }
+  },
+  {
+    "ingredient": {
+      "cas_number": "",
+      "created_at": "2013-03-31T13:01:30-04:00",
+      "id": 20,
+      "inci_name": "",
+      "more_info": null,
+      "name": "PLACENTAL EXTRACT",
+      "organic": false,
+      "pubmed_count": 1693,
+      "pubmed_term": "placental extract",
+      "updated_at": "2014-08-15T12:46:22-04:00",
+      "ingredient_alias_names": [
+        "PLACENTA",
+        "PLACENTAL EXTRACT",
+        "PLACENTAL EXTRACTS"
+      ],
+      "usage": "This ingredient is derived from the placenta, an organ that develops in female mammals during pregnancy, lining the uterine wall and attached by the umbilical cord to provide nourishment and oxygen to the fetus. ",
+      "explanation": null,
+      "notes": "",
+      "hazards": [
+        {
+          "benefit": false,
+          "created_at": "2013-02-27T01:38:27-05:00",
+          "id": 9,
+          "name": "Hormone Disruptor",
+          "rating": 9,
+          "short_name": "HD",
+          "updated_at": "2013-03-31T17:38:43-04:00"
+        }
+      ],
+      "warning_agencies": [
+        {
+          "created_at": "2013-02-27T01:40:25-05:00",
+          "id": 1,
+          "jurisdiction": "Canada",
+          "link": "https://www.canada.ca/en/health-canada/services/consumer-product-safety/cosmetics/cosmetic-ingredient-hotlist-prohibited-restricted-ingredients/hotlist.html",
+          "name": "Health Canada Hot list - The Hotlist is used to keep the cosmetic industry aware of substances that are restricted or prohibited in cosmetics. It has no legal authority and cannot be enforced.",
+          "short_name": "CHL",
+          "updated_at": "2018-04-21T18:50:15-04:00"
+        }
+      ],
+      "sources": [
+        {
+          "created_at": "2013-03-31T13:03:20-04:00",
+          "id": 12,
+          "link": null,
+          "name": "Animal Derived Ingredient on PETA Beauty without Bunnies",
+          "short_name": "PETA",
+          "updated_at": "2013-03-31T13:03:35-04:00"
+        },
+        {
+          "created_at": "2014-07-09T14:33:47-04:00",
+          "id": 235,
+          "link": "https://www.wholefoodsmarket.com/premium-body-care-unacceptable-ingredients",
+          "name": "Whole Foods Market Premium Body Care Standards Unacceptable Ingredients",
+          "short_name": "Whole Foods Market Premium Body Care Standards Unacceptable Ingredients",
+          "updated_at": "2018-05-09T11:13:48-04:00"
+        }
+      ]
+    }
+  },
+  {
+    "ingredient": {
+      "cas_number": "",
+      "created_at": "2013-03-31T13:07:31-04:00",
+      "id": 21,
+      "inci_name": "",
+      "more_info": null,
+      "name": "POLYCYCLIC AROMATIC HYDROCARBONS (PAHS)",
+      "organic": false,
+      "pubmed_count": null,
+      "pubmed_term": null,
+      "updated_at": "2013-03-31T13:07:31-04:00",
+      "ingredient_alias_names": [],
+      "usage": "Some cosmetics and shampoos are made with coal tar and therefore may contain PAHs. They have been shown to increase risk for breast cancer.",
+      "explanation": null,
+      "notes": null,
+      "hazards": [
+        {
+          "benefit": null,
+          "created_at": "2013-02-27T01:24:51-05:00",
+          "id": 1,
+          "name": "Carcinogen",
+          "rating": 10,
+          "short_name": "CN",
+          "updated_at": "2013-02-27T21:05:23-05:00"
+        }
+      ],
+      "warning_agencies": [],
+      "sources": [
+        {
+          "created_at": "2013-02-27T01:39:28-05:00",
+          "id": 3,
+          "link": null,
+          "name": "Breast Cancer Fund Chemicals Linked to Breast Cancer",
+          "short_name": "BCF",
+          "updated_at": "2013-03-03T01:03:08-05:00"
+        }
+      ]
+    }
+  },
+  {
+    "ingredient": {
+      "cas_number": "152-72-7",
+      "created_at": "2013-03-31T13:16:24-04:00",
+      "id": 22,
+      "inci_name": "",
+      "more_info": null,
+      "name": "ACENOCOUMAROL",
+      "organic": false,
+      "pubmed_count": 0,
+      "pubmed_term": "Acenocoumarol",
+      "updated_at": "2019-05-14T14:49:22-04:00",
+      "ingredient_alias_names": [
+        "ACENOCOUMAROL",
+        "SINTHROME",
+        "SINTROM"
+      ],
+      "usage": "Acenocoumarol is an anticoagulant that functions as a vitamin K antagonist (like warfarin). It is a derivative of coumarin and is marketed under the brand names Sintrom and Sinthrome.",
+      "explanation": "ACENOCOUMAROL is used as a pharmaceutical agent as it has similar properties to the anti-coagulant Warfarin. If dosed incorrectly could cause irritations to eyes and respiratory system as well as cause multi-organ toxicity. Prohibited by EU CosIng and Health Canada's Cosmetic Hotlist. ",
+      "notes": "https://pharmacybook.net/sintrom/",
+      "hazards": [
+        {
+          "benefit": false,
+          "created_at": "2013-05-01T00:11:27-04:00",
+          "id": 26,
+          "name": "Skin irritation",
+          "rating": 3,
+          "short_name": "SI",
+          "updated_at": "2013-05-01T00:11:27-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-06-24T20:25:25-04:00",
+          "id": 94,
+          "name": "Respiratory and skin irritation",
+          "rating": 4,
+          "short_name": "Respiratory and skin irritation",
+          "updated_at": "2018-04-19T13:33:40-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2015-07-15T14:37:08-04:00",
+          "id": 150,
+          "name": "Pregnant Women Use with Precaution",
+          "rating": 4,
+          "short_name": "Pregnant Women Use with Precaution",
+          "updated_at": "2019-12-18T11:55:39-05:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-07-31T23:40:48-04:00",
+          "id": 102,
+          "name": "Possible Organ System Toxicity",
+          "rating": 6,
+          "short_name": "Possible Organ System Toxicity",
+          "updated_at": "2014-08-30T23:19:37-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2015-12-31T23:25:24-05:00",
+          "id": 155,
+          "name": "Health Canada Hotlist Prohibited Use in Cosmetic Products",
+          "rating": 8,
+          "short_name": "Health Canada Hotlist Prohibited Use in Cosmetic Products",
+          "updated_at": "2015-12-31T23:25:24-05:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-10-14T15:22:45-04:00",
+          "id": 133,
+          "name": "EU Cosing Prohibited Ingredient",
+          "rating": 9,
+          "short_name": "EU Cosing Prohibited Ingredient",
+          "updated_at": "2014-10-14T15:22:45-04:00"
+        }
+      ],
+      "warning_agencies": [
+        {
+          "created_at": "2013-02-27T01:40:25-05:00",
+          "id": 1,
+          "jurisdiction": "Canada",
+          "link": "https://www.canada.ca/en/health-canada/services/consumer-product-safety/cosmetics/cosmetic-ingredient-hotlist-prohibited-restricted-ingredients/hotlist.html",
+          "name": "Health Canada Hot list - The Hotlist is used to keep the cosmetic industry aware of substances that are restricted or prohibited in cosmetics. It has no legal authority and cannot be enforced.",
+          "short_name": "CHL",
+          "updated_at": "2018-04-21T18:50:15-04:00"
+        },
+        {
+          "created_at": "2013-02-27T01:40:33-05:00",
+          "id": 2,
+          "jurisdiction": "EU",
+          "link": null,
+          "name": "Limit use by EU Coslng",
+          "short_name": "LEU",
+          "updated_at": "2013-04-26T11:27:18-04:00"
+        },
+        {
+          "created_at": "2013-05-03T22:16:17-04:00",
+          "id": 22,
+          "jurisdiction": "EU",
+          "link": null,
+          "name": "EU CosIng Cosmetic Ingredients and Substance List of Prohibited Substance",
+          "short_name": "EUCosIng",
+          "updated_at": "2013-07-05T23:13:26-04:00"
+        }
+      ],
+      "sources": [
+        {
+          "created_at": "2019-05-14T14:46:50-04:00",
+          "id": 2095,
+          "link": "http://ec.europa.eu/growth/tools-databases/cosing/index.cfm?fuseaction=search.details_v2&id=28473",
+          "name": "CosIng- ACENOCOUMAROL",
+          "short_name": "ACENOCOUMAROL",
+          "updated_at": "2019-05-14T14:46:50-04:00"
+        },
+        {
+          "created_at": "2019-05-14T14:45:59-04:00",
+          "id": 2094,
+          "link": "http://ec.europa.eu/growth/tools-databases/cosing/pdf/COSING_Annex%20II_v2.pdf",
+          "name": "CosIng LIST OF SUBSTANCES PROHIBITED IN COSMETIC PRODUCTS- ACENOCOUMAROL",
+          "short_name": "ACENOCOUMAROL",
+          "updated_at": "2019-05-14T14:45:59-04:00"
+        },
+        {
+          "created_at": "2019-05-14T14:44:57-04:00",
+          "id": 2093,
+          "link": "https://www.canada.ca/en/health-canada/services/consumer-product-safety/cosmetics/cosmetic-ingredient-hotlist-prohibited-restricted-ingredients/hotlist.html",
+          "name": "Health Canada Cosmetic Ingredient Hotlist: Prohibited for Use in Cosmetic Products- ACENOCOUMAROL",
+          "short_name": "ACENOCOUMAROL",
+          "updated_at": "2019-05-14T14:44:57-04:00"
+        },
+        {
+          "created_at": "2019-05-14T14:44:11-04:00",
+          "id": 2092,
+          "link": "https://pubchem.ncbi.nlm.nih.gov/compound/54676537",
+          "name": "U.S. National Library of Medicine National Center for Biotechnology Information-  PubChem- ACENOCOUMAROL",
+          "short_name": "ACENOCOUMAROL",
+          "updated_at": "2019-05-14T14:44:11-04:00"
+        }
+      ]
+    }
+  },
+  {
+    "ingredient": {
+      "cas_number": "8009-03-8",
+      "created_at": "2013-03-31T17:06:28-04:00",
+      "id": 23,
+      "inci_name": "PETROLATUM",
+      "more_info": null,
+      "name": "PETROLATUM",
+      "organic": false,
+      "pubmed_count": 0,
+      "pubmed_term": "",
+      "updated_at": "2020-09-08T10:08:38-04:00",
+      "ingredient_alias_names": [
+        "100% PURE EUROPEAN PETROLATUM",
+        "100% PURE WHITE PETROLATUM (EUROPEAN GRADE)",
+        "67% PETROLATUM USP",
+        "CARCINOGEN-FREE PHARMACEUTICAL GRADE PETROLEUM JELLY \t",
+        "PETROCHEMICALS",
+        "PETROLATUM",
+        "PETROLATUM 30%",
+        "PETROLATUM 31%",
+        "PETROLATUM 31.7%",
+        "PETROLATUM 40.2%",
+        "PETROLATUM  41%",
+        "PETROLATUM (41%)",
+        "PETROLATUM 41%",
+        "PETROLATUM (41%) (SKIN PROTECTANT)",
+        "PETROLATUM 49.5%",
+        "PETROLATUM 54%",
+        "PETROLATUM 54.86%",
+        "PETROLATUM 54.86% SKIN PROTECTANT",
+        "PETROLATUM 56.8%",
+        "PETROLATUM 59.14% W/W",
+        "PETROLATUM (66.2%)",
+        "PETROLATUM 90.3%",
+        "PETROLATUM 90.8%",
+        "PETROLATUM AVENA SATIVA (OAT) KERNEL EXTRACT",
+        "PETROLATUM GLYCERIN",
+        "PETROLEUM",
+        "PETROLEUM 6K",
+        "PETROLEUM DISTILLATES",
+        "PETROLEUM JELLY",
+        "PURE WHITE PETROLATUM SURGICAL GRADE",
+        "WHITE 100% EUROPEAN PURE PETROLATUM",
+        "WHITE 100% PURE EUROPEAN PETROLATUM",
+        "WHITE 100% PURE PETROLATUM",
+        "WHITE 100% PURE WHITE EUROPEAN PETROLATUM",
+        "WHITE PETROLATUM",
+        "WHITE PETROLATUM 100%",
+        "WHITE PETROLATUM (30%)",
+        "WHITE PETROLATUM 30%",
+        "WHITE PETROLATUM  33.0%",
+        "WHITE PETROLATUM 38.7%",
+        "WHITE PETROLATUM 40.7%",
+        "WHITE PETROLATUM  44%",
+        "WHITE PETROLATUM 44%",
+        "WHITE PETROLATUM 47%",
+        "WHITE PETROLATUM 69%",
+        "WHITE PETROLATUM 77.4%",
+        "WHITE PETROLATUM USP",
+        "WHITE PETROLATUM USP 100%",
+        "WHITE PETROLATUM USP 99.6%",
+        "WHITE PETROLLEUM JELLY"
+      ],
+      "usage": "Petrolatum is mineral oil jelly (i.e. petroleum jelly). It is used as a barrier to lock moisture in the skin in a variety of moisturizers and also in hair care products to make your hair shine. Some companies called their petroleum jelly, \"Carcinogen-free Pharmaceutical Grade Petroleum Jelly\" or \"surgical grade\". These are more pure than petroleum found in crude oil. Health Canada considers petrolatum non-toxic. European Union put numerous grades of petrolatum on a list of dangerous substances. Only highly refined petrolatum can be used in cosmetics there. Also Petrolatum comes from crude oil, and as such is not a renewable resource. ",
+      "explanation": "EU commission limit the chemical usage, due to its potential carcinogen property.",
+      "notes": "http://www.besthealthmag.ca/look-great/skin/the-truth-about-petrolatum\r\n\r\nEU closing: http://ec.europa.eu/consumers/cosmetics/cosing/index.cfm?fuseaction=search.details_v2&id=29078",
+      "hazards": [
+        {
+          "benefit": false,
+          "created_at": "2017-10-25T17:25:29-04:00",
+          "id": 173,
+          "name": "Was tested positive in the local lymph node assay (LLNA) and irritancy assay (IRR)",
+          "rating": 5,
+          "short_name": "Was tested positive in the local lymph node assay (LLNA) and irritancy assay (IRR)",
+          "updated_at": "2017-10-25T17:32:58-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-09-30T12:10:42-04:00",
+          "id": 117,
+          "name": "Mild irritation, itchiness, redness when contact with eyes and skin for some sensitive individuals",
+          "rating": 2,
+          "short_name": "mild effect for some individual",
+          "updated_at": "2015-01-12T20:23:02-05:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-03-09T21:13:30-04:00",
+          "id": 61,
+          "name": "Low Possible Carcinogen",
+          "rating": 5,
+          "short_name": "Low Possible Carcinogen",
+          "updated_at": "2014-08-27T01:26:55-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-05-16T22:36:51-04:00",
+          "id": 79,
+          "name": "Come from crude oil - non-renewable resources",
+          "rating": 3,
+          "short_name": "Come from crude oil - non-renewable resources",
+          "updated_at": "2015-01-06T10:35:49-05:00"
+        }
+      ],
+      "warning_agencies": [
+        {
+          "created_at": "2013-02-27T01:40:33-05:00",
+          "id": 2,
+          "jurisdiction": "EU",
+          "link": null,
+          "name": "Limit use by EU Coslng",
+          "short_name": "LEU",
+          "updated_at": "2013-04-26T11:27:18-04:00"
+        },
+        {
+          "created_at": "2013-08-24T09:45:06-04:00",
+          "id": 32,
+          "jurisdiction": "Canada",
+          "link": null,
+          "name": "Health Canada",
+          "short_name": "HC",
+          "updated_at": "2013-08-24T09:45:06-04:00"
+        }
+      ],
+      "sources": [
+        {
+          "created_at": "2014-07-09T14:33:47-04:00",
+          "id": 235,
+          "link": "https://www.wholefoodsmarket.com/premium-body-care-unacceptable-ingredients",
+          "name": "Whole Foods Market Premium Body Care Standards Unacceptable Ingredients",
+          "short_name": "Whole Foods Market Premium Body Care Standards Unacceptable Ingredients",
+          "updated_at": "2018-05-09T11:13:48-04:00"
+        },
+        {
+          "created_at": "2015-01-06T10:36:50-05:00",
+          "id": 849,
+          "link": "",
+          "name": "EU Commission. OPINION CONCERNING CHEMICAL INGREDIENTS IN COSMETIC PRODUCTS CLASSIFIED AS CARCINOGENIC, MUTAGENIC OR TOXIC TO REPRODUCTION ACCORDING TO THE CHEMICALS DIRECTIVE 67/548/EEC . 28th Plenary meeting of 25 May 2004 ",
+          "short_name": "",
+          "updated_at": "2015-01-06T10:36:50-05:00"
+        }
+      ]
+    }
+  },
+  {
+    "ingredient": {
+      "cas_number": "117-81-7",
+      "created_at": "2013-03-31T17:26:46-04:00",
+      "id": 25,
+      "inci_name": "",
+      "more_info": null,
+      "name": "DIETHYLHEXYL PHTHALATE",
+      "organic": false,
+      "pubmed_count": 0,
+      "pubmed_term": "Diethylhexyl phthalate",
+      "updated_at": "2020-07-27T15:22:37-04:00",
+      "ingredient_alias_names": [
+        "BIS(2-ETHYLHEXYL) PHTHALATE",
+        "DEHP",
+        "DI(2-ETHYLHEXYL)PHTHALATE",
+        "DIETHYLHEXYL PHTHALATE"
+      ],
+      "usage": "- DEHP is used as a Fragrance Ingredient, Plasticizer and Solvent.\r\n- It is classified CMR (carcinogenic, mutagenic or toxic to reproduction) according to Annex VI of Regulation 1272/2008",
+      "explanation": "Diethylhexyl phthalate harms the reproductive system and can affect the developing fetus. It is a potential endocrine disruptor and has been classified by the International Agency for Research on Cancer as possibly carcinogenic\r\nto humans.",
+      "notes": "Marked as a Sephora high-priority chemical - Sephora to reduce the number of products containing any of their high priority chemicals by 50% in 3 years\r\nhttps://www.sephorastands.com/wp-content/uploads/Sephora-Public-Chemicals-Policy-2019.pdf\r\n\r\nhttps://pubchem.ncbi.nlm.nih.gov/compound/dehp#section=GHS-Classification\r\nhttps://cdn3.ewg.org/sites/default/files/u352/EWG_Toxic20List_C02.pdf?_ga=2.122190158.497058190.1582755413-1712725879.1582755413",
+      "hazards": [
+        {
+          "benefit": false,
+          "created_at": "2014-12-29T12:03:31-05:00",
+          "id": 143,
+          "name": "Toxic to aquatic organisms",
+          "rating": 2,
+          "short_name": "ecotoxic",
+          "updated_at": "2015-01-25T21:46:00-05:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-06-24T20:25:25-04:00",
+          "id": 94,
+          "name": "Respiratory and skin irritation",
+          "rating": 4,
+          "short_name": "Respiratory and skin irritation",
+          "updated_at": "2018-04-19T13:33:40-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-07-31T23:40:48-04:00",
+          "id": 102,
+          "name": "Possible Organ System Toxicity",
+          "rating": 6,
+          "short_name": "Possible Organ System Toxicity",
+          "updated_at": "2014-08-30T23:19:37-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-04-17T00:45:44-04:00",
+          "id": 68,
+          "name": "Possible Endocrine Disruptor",
+          "rating": 4,
+          "short_name": "Possible Endocrine Disruptor",
+          "updated_at": "2015-05-15T11:28:28-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2013-08-22T12:42:18-04:00",
+          "id": 41,
+          "name": "Possible Carcinogen",
+          "rating": 8,
+          "short_name": "PC",
+          "updated_at": "2018-04-21T18:46:16-04:00"
+        },
+        {
+          "benefit": null,
+          "created_at": "2013-02-27T01:38:18-05:00",
+          "id": 8,
+          "name": "Male Reproductive Health Interference",
+          "rating": 8,
+          "short_name": "TP",
+          "updated_at": "2013-03-02T23:39:49-05:00"
+        }
+      ],
+      "warning_agencies": [
+        {
+          "created_at": "2013-02-27T01:40:25-05:00",
+          "id": 1,
+          "jurisdiction": "Canada",
+          "link": "https://www.canada.ca/en/health-canada/services/consumer-product-safety/cosmetics/cosmetic-ingredient-hotlist-prohibited-restricted-ingredients/hotlist.html",
+          "name": "Health Canada Hot list - The Hotlist is used to keep the cosmetic industry aware of substances that are restricted or prohibited in cosmetics. It has no legal authority and cannot be enforced.",
+          "short_name": "CHL",
+          "updated_at": "2018-04-21T18:50:15-04:00"
+        },
+        {
+          "created_at": "2020-02-26T14:22:33-05:00",
+          "id": 138,
+          "jurisdiction": "California, US",
+          "link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB495",
+          "name": "California Aseembly Bill 145 Restricted Chemical",
+          "short_name": "California Aseembly Bill 145 Restricted Chemical",
+          "updated_at": "2020-02-26T14:22:33-05:00"
+        },
+        {
+          "created_at": "2013-05-03T22:16:17-04:00",
+          "id": 22,
+          "jurisdiction": "EU",
+          "link": null,
+          "name": "EU CosIng Cosmetic Ingredients and Substance List of Prohibited Substance",
+          "short_name": "EUCosIng",
+          "updated_at": "2013-07-05T23:13:26-04:00"
+        },
+        {
+          "created_at": "2020-06-01T08:40:35-04:00",
+          "id": 140,
+          "jurisdiction": "",
+          "link": "https://chemsec.org/",
+          "name": "ChemSec SIN LIST",
+          "short_name": "",
+          "updated_at": "2020-06-01T08:40:35-04:00"
+        },
+        {
+          "created_at": "2020-10-05T09:21:25-04:00",
+          "id": 141,
+          "jurisdiction": "California",
+          "link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB2762",
+          "name": "California Toxic-Free Cosmetics Act (CA AB 2762)",
+          "short_name": "",
+          "updated_at": "2020-10-05T09:21:25-04:00"
+        }
+      ],
+      "sources": [
+        {
+          "created_at": "2020-10-05T09:22:40-04:00",
+          "id": 3699,
+          "link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB2762",
+          "name": "AB-2762 Cosmetic products: safety. (2020). Retrieved October 5, 2020, from https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB2762",
+          "short_name": "",
+          "updated_at": "2020-10-05T09:22:40-04:00"
+        },
+        {
+          "created_at": "2020-06-01T10:59:13-04:00",
+          "id": 3230,
+          "link": "https://sinsearch.chemsec.org/chemical/117-81-7",
+          "name": "Chemsec SIN LIST: DEHP; Bis(2-ethylhexyl) phthalate. (2008). Retrieved June 1, 2020, from https://sinsearch.chemsec.org/chemical/117-81-7 ",
+          "short_name": "",
+          "updated_at": "2020-06-01T10:59:13-04:00"
+        },
+        {
+          "created_at": "2013-02-27T01:39:22-05:00",
+          "id": 2,
+          "link": "http://www.davidsuzuki.org/issues/health/science/toxics/dirty-dozen-cosmetic-chemicals/",
+          "name": "David Suzuki Foundation Dirty Dozen",
+          "short_name": "DSF",
+          "updated_at": "2014-03-07T20:38:31-05:00"
+        },
+        {
+          "created_at": "2013-02-27T01:39:16-05:00",
+          "id": 1,
+          "link": null,
+          "name": "Environmental Defense Canada Toxic Ten",
+          "short_name": "ED",
+          "updated_at": "2013-03-02T10:46:05-05:00"
+        },
+        {
+          "created_at": "2020-07-27T13:39:35-04:00",
+          "id": 3593,
+          "link": "https://www.sephorastands.com/wp-content/uploads/Sephora-Public-Chemicals-Policy-2019.pdf",
+          "name": "Sephora Safer Chemical Policy - High-Priority Chemicals ",
+          "short_name": "Sephora High-Priority Chemicals ",
+          "updated_at": "2020-07-27T13:39:35-04:00"
+        }
+      ]
+    }
+  },
+  {
+    "ingredient": {
+      "cas_number": "2682-20-4",
+      "created_at": "2013-04-02T00:43:57-04:00",
+      "id": 26,
+      "inci_name": "",
+      "more_info": null,
+      "name": "METHYLISOTHIAZOLINONE",
+      "organic": false,
+      "pubmed_count": 0,
+      "pubmed_term": "METHYLISOTHIAZOLINONE",
+      "updated_at": "2020-07-27T15:27:22-04:00",
+      "ingredient_alias_names": [
+        "2-METHYL-2H-ISOTHIAZOL-3-ONE",
+        "2-METHYL- 3 (2H) -ISOTHIAZOLONE",
+        "2-METHYL-3 (2H) -ISOTHIAZOLONE",
+        "2-METHYL-4-ISOTHIAZOLIN-3-ONE",
+        "3 (2H) -ISOTHIAZOLONE, 2-METHYL-",
+        "3 (2H) ISOTHIAZOLONE, 2METHYL",
+        "METHLISOTHIAZOLINONE",
+        "METHYISOTHIAZOLINONE",
+        "METHYLISOTHIAZOLINON",
+        "METHYLISOTHIAZOLINONE",
+        "METHYLISOTHIAZOLINONE.",
+        "METHYLISOTHIAZOLINONE (GENTLE PRESERVATIVE)",
+        "METHYLISOTHIAZOLINONE PRESERVATIVE",
+        "METHYLISOTHIAZOLINONE (PRESERVATIVE)",
+        "METHYLISOTHIAZOLINONE (PRESERVATIVE).",
+        "METHYLISOTHIAZOLINONE (SYNTHETIC PRESERATIVIE)",
+        "METHYLISOTHIAZOLINONE (SYNTHETIC PRESERVATIVE)",
+        "METHYLISOTHIAZOLINONE (SYNTHETIC PRESERVATIVES)",
+        "METHYLISOTHIAZOLINONE (SYNTHETIC PRESERVATIVES)."
+      ],
+      "usage": "Preservative antimicrobial permitted at concentrations equal to or less than 0.01%. Found in hand and body lotions and moisturizers, shampoos (mostly zinc pyrithione based anti-dandruff shampoos), surfactants and conditioners.",
+      "explanation": "Methylisothiazolinone is a frequent sensitizer that has been linked to eczema, contact allergy and dermatitis.",
+      "notes": "Marked as a Sephora high-priority chemical - Sephora to reduce the number of products containing any of their high priority chemicals by 50% in 3 years\r\nhttps://www.sephorastands.com/wp-content/uploads/Sephora-Public-Chemicals-Policy-2019.pdf\r\n\r\nhttp://ec.europa.eu/food/fs/sc/sccp/out_201.pdf ||  Thyssen, J. P., et al. \"Contact dermatitis from methylisothiazolinone in a paint factory.\" Contact Dermatitis 54.6 (2006): 322-324.",
+      "hazards": [
+        {
+          "benefit": false,
+          "created_at": "2014-10-01T16:42:14-04:00",
+          "id": 123,
+          "name": "Sensitizing Effect",
+          "rating": 3,
+          "short_name": "",
+          "updated_at": "2017-06-23T14:19:44-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-06-24T20:25:25-04:00",
+          "id": 94,
+          "name": "Respiratory and skin irritation",
+          "rating": 4,
+          "short_name": "Respiratory and skin irritation",
+          "updated_at": "2018-04-19T13:33:40-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-09-30T12:10:42-04:00",
+          "id": 117,
+          "name": "Mild irritation, itchiness, redness when contact with eyes and skin for some sensitive individuals",
+          "rating": 2,
+          "short_name": "mild effect for some individual",
+          "updated_at": "2015-01-12T20:23:02-05:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2013-11-26T21:10:36-05:00",
+          "id": 53,
+          "name": "May triggers Eczema",
+          "rating": 3,
+          "short_name": "May triggers Eczema",
+          "updated_at": "2018-04-19T13:31:11-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-05-14T13:29:14-04:00",
+          "id": 73,
+          "name": "Low concerns if use under concentration restricted",
+          "rating": 1,
+          "short_name": "LC",
+          "updated_at": "2014-05-14T13:49:53-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-10-14T15:13:25-04:00",
+          "id": 131,
+          "name": "EU Cosing Limit",
+          "rating": 2,
+          "short_name": "EU Cosing Limit",
+          "updated_at": "2015-05-05T19:36:31-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2013-02-27T01:38:41-05:00",
+          "id": 11,
+          "name": "Allergy",
+          "rating": 3,
+          "short_name": "AG",
+          "updated_at": "2018-04-19T13:32:01-04:00"
+        }
+      ],
+      "warning_agencies": [
+        {
+          "created_at": "2013-02-27T01:41:16-05:00",
+          "id": 5,
+          "jurisdiction": "Canada",
+          "link": null,
+          "name": "Canada Mandatory labelling",
+          "short_name": "CML",
+          "updated_at": "2013-04-17T10:47:02-04:00"
+        },
+        {
+          "created_at": "2013-02-27T01:40:25-05:00",
+          "id": 1,
+          "jurisdiction": "Canada",
+          "link": "https://www.canada.ca/en/health-canada/services/consumer-product-safety/cosmetics/cosmetic-ingredient-hotlist-prohibited-restricted-ingredients/hotlist.html",
+          "name": "Health Canada Hot list - The Hotlist is used to keep the cosmetic industry aware of substances that are restricted or prohibited in cosmetics. It has no legal authority and cannot be enforced.",
+          "short_name": "CHL",
+          "updated_at": "2018-04-21T18:50:15-04:00"
+        }
+      ],
+      "sources": [
+        {
+          "created_at": "2013-02-27T01:39:16-05:00",
+          "id": 1,
+          "link": null,
+          "name": "Environmental Defense Canada Toxic Ten",
+          "short_name": "ED",
+          "updated_at": "2013-03-02T10:46:05-05:00"
+        },
+        {
+          "created_at": "2013-11-26T21:11:03-05:00",
+          "id": 55,
+          "link": "http://www.nationaleczema.org/education-resource-center/skin-care-guide-ingredients-avoid",
+          "name": "National Eczema Association",
+          "short_name": "NEA",
+          "updated_at": "2013-11-26T21:11:03-05:00"
+        },
+        {
+          "created_at": "2014-09-30T12:40:15-04:00",
+          "id": 298,
+          "link": "http://www.nlm.nih.gov/bsd/pmresources.html",
+          "name": "NIH Medline/Pubmed Resources",
+          "short_name": "NIH Medline/Pubmed Resources",
+          "updated_at": "2014-09-30T12:40:15-04:00"
+        },
+        {
+          "created_at": "2013-03-05T02:06:26-05:00",
+          "id": 9,
+          "link": null,
+          "name": "PubMed Studies",
+          "short_name": "PM",
+          "updated_at": "2013-03-05T02:06:26-05:00"
+        },
+        {
+          "created_at": "2020-07-27T13:39:35-04:00",
+          "id": 3593,
+          "link": "https://www.sephorastands.com/wp-content/uploads/Sephora-Public-Chemicals-Policy-2019.pdf",
+          "name": "Sephora Safer Chemical Policy - High-Priority Chemicals ",
+          "short_name": "Sephora High-Priority Chemicals ",
+          "updated_at": "2020-07-27T13:39:35-04:00"
+        },
+        {
+          "created_at": "2014-07-09T14:33:47-04:00",
+          "id": 235,
+          "link": "https://www.wholefoodsmarket.com/premium-body-care-unacceptable-ingredients",
+          "name": "Whole Foods Market Premium Body Care Standards Unacceptable Ingredients",
+          "short_name": "Whole Foods Market Premium Body Care Standards Unacceptable Ingredients",
+          "updated_at": "2018-05-09T11:13:48-04:00"
+        }
+      ]
+    }
+  },
+  {
+    "ingredient": {
+      "cas_number": "65-85-0",
+      "created_at": "2013-04-03T00:35:41-04:00",
+      "id": 28,
+      "inci_name": "",
+      "more_info": null,
+      "name": "BENZOIC ACID",
+      "organic": false,
+      "pubmed_count": 0,
+      "pubmed_term": "benzoic acid and cosmetics",
+      "updated_at": "2020-03-13T11:21:09-04:00",
+      "ingredient_alias_names": [
+        "BENZOIC ACID",
+        "BENZOIC ACID (<0.1%)",
+        "BENZOIC ACID (NATURAL)",
+        "BENZOIC ACID (PRESERVATIVE)",
+        "BENZOIC ACID (VEGETABLE BASED)",
+        "CARBOXYBENZENE",
+        "PHENYLCARBOXYLIC ACID",
+        " BENZOIC ACID"
+      ],
+      "usage": "Benzoic acid is a weak acid that's used as a preservative. ",
+      "explanation": "Benzoic acid is naturally ocurring in many fruits in trace amounts. On the basis of provided data, the SCCP is of the opinion that benzoic acid and sodium benzoate are safe for use for preservative and non-preservative purposes in cosmetic rinse-off products at a maximum concentration of 2.5 % and in cosmetic oral-care products at a maximum concentration of 1.7 %, and in leave-on products up to 0.5%. National Eczema Association: \" When sunlight is absorbed by chemical sunscreens (such as benzones, amino benzoic acid and cinnamates), there are some concerns that they can generate free radicicals,  which can also damage skin cells.\"\r\nKnown to irritate eczema or sensitive skin by National Eczema Association.",
+      "notes": "http://chemicaloftheday.squarespace.com/todays-chemical/2010/4/26/benzoic-acid.html\r\n\r\nhttp://www.sciencedirect.com/science/article/pii/S0273230097911582\r\n\r\nhttp://www.ncbi.nlm.nih.gov/pubmed/17644306\r\n\r\nhttp://cfr.vlex.com/vid/184-1021-benzoic-acid-19707129\r\n\r\nhttp://www.bfr.bund.de/cm/245/indications_of_the_possible_formation_of_benzene_from_benzoic_acid_in_foods.pdf\r\n\r\nhttp://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+65-85-0\r\n\r\nBenzoic acid is a skin and eye irritant in rabbits. It causes irritation but very little allergic\r\nreactions on human skin. Benzoic acid causes non-immunological contact urticaria in humans.\r\nSodium benzoate was not irritating on rabbit skin, but very slightly irritating the rabbit eye\r\n\r\nhttp://ec.europa.eu/consumers/cosmetics/cosing/index.cfm?fuseaction=search.details_v2&id=28117\r\n\r\nhttps://docs.google.com/a/thinkdirtyapp.com/spreadsheet/ccc?key=0Ah0w7H6WNXQ9dHg3VTBadDYxQ2QtN1FuWURMbm53QWc&usp=sharing\r\n\r\nhttp://www.specialchem4cosmetics.com/services/inci/ingredient.aspx?id=1313\r\n\r\nhttp://www.specialchem4cosmetics.com/services/articles.aspx?id=5730\r\n\r\nhttp://www.specialchem4cosmetics.com/services/articles.aspx?id=6667",
+      "hazards": [
+        {
+          "benefit": false,
+          "created_at": "2013-05-01T00:11:27-04:00",
+          "id": 26,
+          "name": "Skin irritation",
+          "rating": 3,
+          "short_name": "SI",
+          "updated_at": "2013-05-01T00:11:27-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2013-04-30T19:08:41-04:00",
+          "id": 25,
+          "name": "Not suspected to be harmful",
+          "rating": 0,
+          "short_name": "NSH",
+          "updated_at": "2013-04-30T19:09:03-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2013-08-17T02:36:11-04:00",
+          "id": 34,
+          "name": "Mild Irritations when contact with Eyes",
+          "rating": 1,
+          "short_name": "MI",
+          "updated_at": "2014-10-21T09:35:33-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-08-24T23:47:40-04:00",
+          "id": 110,
+          "name": "May cause skin irritation",
+          "rating": 2,
+          "short_name": "May cause skin irritation",
+          "updated_at": "2014-08-25T23:37:53-04:00"
+        }
+      ],
+      "warning_agencies": [
+        {
+          "created_at": "2013-03-31T17:29:27-04:00",
+          "id": 7,
+          "jurisdiction": "Canada",
+          "link": "http://www.ec.gc.ca/lcpe-cepa/eng/substance/chemicals_polymers.cfm",
+          "name": "Environment Canada Domestic Substance List",
+          "short_name": "ECDSL",
+          "updated_at": "2014-04-11T22:44:38-04:00"
+        },
+        {
+          "created_at": "2013-08-21T14:28:23-04:00",
+          "id": 26,
+          "jurisdiction": "EU",
+          "link": null,
+          "name": "EU CosIng Limit: up to 2.5% in rinse off products and .5% in leave-on products",
+          "short_name": "EU Benzoic Acid",
+          "updated_at": "2013-08-21T14:28:23-04:00"
+        },
+        {
+          "created_at": "2013-04-29T22:17:35-04:00",
+          "id": 20,
+          "jurisdiction": "US",
+          "link": null,
+          "name": "US National Library of Medicine TOXNET Toxicology Data Network",
+          "short_name": "USTOXNET",
+          "updated_at": "2013-04-29T22:17:46-04:00"
+        }
+      ],
+      "sources": [
+        {
+          "created_at": "2013-08-02T00:39:18-04:00",
+          "id": 23,
+          "link": null,
+          "name": "ChemAdvisor",
+          "short_name": "CHEMADV",
+          "updated_at": "2013-08-15T18:08:14-04:00"
+        },
+        {
+          "created_at": "2013-08-21T00:00:59-04:00",
+          "id": 26,
+          "link": null,
+          "name": "CIR Panel Experts (an industry self-regulated body) Limit: 5%",
+          "short_name": "CIRLimit Benzoic Acids",
+          "updated_at": "2013-08-21T14:28:45-04:00"
+        },
+        {
+          "created_at": "2013-08-20T23:59:44-04:00",
+          "id": 25,
+          "link": null,
+          "name": "EU CosIng Limit: up to 2.5% in rinse off products and .5% in leave-on products.",
+          "short_name": "EULimit Benzoic Acids",
+          "updated_at": "2013-08-21T14:28:34-04:00"
+        },
+        {
+          "created_at": "2013-05-19T21:02:54-04:00",
+          "id": 19,
+          "link": null,
+          "name": "EU Cosmetic Directive CosIng",
+          "short_name": "EUCDC",
+          "updated_at": "2013-05-19T21:02:54-04:00"
+        },
+        {
+          "created_at": "2013-08-17T01:41:23-04:00",
+          "id": 24,
+          "link": null,
+          "name": "GoodGuide",
+          "short_name": "GG",
+          "updated_at": "2013-08-17T01:41:23-04:00"
+        },
+        {
+          "created_at": "2013-11-26T21:11:03-05:00",
+          "id": 55,
+          "link": "http://www.nationaleczema.org/education-resource-center/skin-care-guide-ingredients-avoid",
+          "name": "National Eczema Association",
+          "short_name": "NEA",
+          "updated_at": "2013-11-26T21:11:03-05:00"
+        },
+        {
+          "created_at": "2014-04-17T17:29:50-04:00",
+          "id": 127,
+          "link": "http://nationaleczema.org/eczema/treatment/moisturizing/sun-protection/",
+          "name": "National Eczema Association: Benzoic Acid in Sun Screens",
+          "short_name": "National Eczema Association: Benzoic Acid in Sun Screens",
+          "updated_at": "2014-04-17T17:29:50-04:00"
+        },
+        {
+          "created_at": "2013-04-30T23:20:01-04:00",
+          "id": 17,
+          "link": null,
+          "name": "National Library of Medicine - Hazardous Substances Data Bank",
+          "short_name": "NLMHSDB",
+          "updated_at": "2013-04-30T23:20:01-04:00"
+        },
+        {
+          "created_at": "2013-03-05T02:06:26-05:00",
+          "id": 9,
+          "link": null,
+          "name": "PubMed Studies",
+          "short_name": "PM",
+          "updated_at": "2013-03-05T02:06:26-05:00"
+        }
+      ]
+    }
+  },
+  {
+    "ingredient": {
+      "cas_number": "",
+      "created_at": "2013-04-03T00:41:57-04:00",
+      "id": 29,
+      "inci_name": "",
+      "more_info": null,
+      "name": "QUATERNARY AMMONIUM COMPOUNDS (QUATS)",
+      "organic": false,
+      "pubmed_count": 0,
+      "pubmed_term": "",
+      "updated_at": "2020-08-19T17:34:36-04:00",
+      "ingredient_alias_names": [
+        "CETEARAMIDOETHYLDIETHONIUM SUCCINOYL HYDROLYZED PEA PROTEIN",
+        "POLYMERIC ALKYL/ALLYL QUATERNARY AMMONIUM ACRYLATE",
+        "QUATERNIM-15 HECTORITE",
+        "QUATERNIUM 15",
+        "QUATERNIUM-15",
+        "QUATERNIUM-15 HECTORIATE",
+        "QUATERNIUM-24",
+        "QUATERNIUM-33",
+        "QUATERNIUM-8"
+      ],
+      "usage": "Chemical preservatives used commonly in hair conditioners, shampoos and lotions to impart a slippery and smooth feel to the hair and skin. It acts as a formaldehyde releaser. It can cause contact dermatitis.",
+      "explanation": "",
+      "notes": "Marked as a high-priority chemical - Sephora to reduce the number of products containing any of their high priority chemicals by 50% in 3 years\r\nhttps://www.sephorastands.com/wp-content/uploads/Sephora-Public-Chemicals-Policy-2019.pdf\r\n\r\nhttp://www.nicnas.gov.au/__data/assets/pdf_file/0006/4389/PEC_28_Formaldehyde_Full_Report_PDF.pdf",
+      "hazards": [
+        {
+          "benefit": false,
+          "created_at": "2013-08-22T12:42:18-04:00",
+          "id": 41,
+          "name": "Possible Carcinogen",
+          "rating": 8,
+          "short_name": "PC",
+          "updated_at": "2018-04-21T18:46:16-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2013-11-26T21:10:36-05:00",
+          "id": 53,
+          "name": "May triggers Eczema",
+          "rating": 3,
+          "short_name": "May triggers Eczema",
+          "updated_at": "2018-04-19T13:31:11-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2013-02-27T01:38:41-05:00",
+          "id": 11,
+          "name": "Allergy",
+          "rating": 3,
+          "short_name": "AG",
+          "updated_at": "2018-04-19T13:32:01-04:00"
+        }
+      ],
+      "warning_agencies": [
+        {
+          "created_at": "2013-03-31T17:34:49-04:00",
+          "id": 12,
+          "jurisdiction": "US",
+          "link": "http://ntp.niehs.nih.gov/",
+          "name": "National Toxicology Program",
+          "short_name": "NTP",
+          "updated_at": "2014-04-12T18:54:21-04:00"
+        },
+        {
+          "created_at": "2013-11-26T21:53:10-05:00",
+          "id": 48,
+          "jurisdiction": "EU",
+          "link": "http://ec.europa.eu/health/scientific_committees/consumer_safety/docs/sccs_o_077.pdf",
+          "name": "EU Scientific Committee on Consumer Safety on Quaternium-15: considering the absence of  relevant toxicological data, the SCCS considers its continued use in cosmetic products may  not be safe for the consumers. ",
+          "short_name": "EU SCCS Q-15",
+          "updated_at": "2013-11-26T21:53:10-05:00"
+        }
+      ],
+      "sources": [
+        {
+          "created_at": "2014-04-17T23:44:57-04:00",
+          "id": 133,
+          "link": "http://www.nicnas.gov.au/__data/assets/pdf_file/0006/4389/PEC_28_Formaldehyde_Full_Report_PDF.pdf",
+          "name": "Australian Government Department of Health and Ageing. Priority Existing Chemical Assessment Report No. 28: Formaldehyde. November 2006. Page 68.",
+          "short_name": "Australian Government Department of Health and Ageing. Priority Existing Chemical Assessment Report No. 28: Formaldehyde. November 2006. Page 68.",
+          "updated_at": "2014-04-17T23:44:57-04:00"
+        },
+        {
+          "created_at": "2014-04-17T22:29:22-04:00",
+          "id": 131,
+          "link": "http://www.skinandaging.com/content/environmental-exposures-%E2%80%94-a-pediatric-perspective-on-allergic-contact-dermatitis",
+          "name": "Jacob, Sharon E.; Breithaupt, Andrew (2009). Environmental exposures, a pediatric perspective on allergic contact dermatitis. Skin & Aging, July 2009.",
+          "short_name": "Jacob, Sharon E.; Breithaupt, Andrew (2009). Environmental exposures, a pediatric perspective on allergic contact dermatitis. Skin & Aging, July 2009.",
+          "updated_at": "2014-04-17T22:29:22-04:00"
+        },
+        {
+          "created_at": "2014-04-17T22:28:24-04:00",
+          "id": 130,
+          "link": "http://www.niehs.nih.gov/news/newsletter/2009/december/spotlight-expert.cfm",
+          "name": "Mackar, Robin. Expert Panel Recommends Listing Formaldehyde as Known Human Carcinogen. Environmental Factor, December 2009.",
+          "short_name": "Mackar, Robin. Expert Panel Recommends Listing Formaldehyde as Known Human Carcinogen. Environmental Factor, December 2009.",
+          "updated_at": "2014-04-17T22:28:24-04:00"
+        },
+        {
+          "created_at": "2013-11-26T21:11:03-05:00",
+          "id": 55,
+          "link": "http://www.nationaleczema.org/education-resource-center/skin-care-guide-ingredients-avoid",
+          "name": "National Eczema Association",
+          "short_name": "NEA",
+          "updated_at": "2013-11-26T21:11:03-05:00"
+        },
+        {
+          "created_at": "2014-04-17T22:27:11-04:00",
+          "id": 129,
+          "link": "http://www.niehs.nih.gov/news/newsroom/releases/2011/june10/",
+          "name": "National Institute of Environmental Health Science: New Substances Added to HHS Report on Carcinogens",
+          "short_name": "National Institute of Environmental Health Science: New Substances Added to HHS Report on Carcinogens",
+          "updated_at": "2014-04-17T22:27:11-04:00"
+        },
+        {
+          "created_at": "2020-07-27T13:39:35-04:00",
+          "id": 3593,
+          "link": "https://www.sephorastands.com/wp-content/uploads/Sephora-Public-Chemicals-Policy-2019.pdf",
+          "name": "Sephora Safer Chemical Policy - High-Priority Chemicals ",
+          "short_name": "Sephora High-Priority Chemicals ",
+          "updated_at": "2020-07-27T13:39:35-04:00"
+        },
+        {
+          "created_at": "2013-11-26T21:40:30-05:00",
+          "id": 56,
+          "link": "http://www.toronto.ca/health/chemtrac/report.htm",
+          "name": "Toronto ChemTract list of priority substances",
+          "short_name": "Toronto ChemTract list of priority substances",
+          "updated_at": "2013-11-26T21:40:30-05:00"
+        },
+        {
+          "created_at": "2014-07-09T14:33:47-04:00",
+          "id": 235,
+          "link": "https://www.wholefoodsmarket.com/premium-body-care-unacceptable-ingredients",
+          "name": "Whole Foods Market Premium Body Care Standards Unacceptable Ingredients",
+          "short_name": "Whole Foods Market Premium Body Care Standards Unacceptable Ingredients",
+          "updated_at": "2018-05-09T11:13:48-04:00"
+        }
+      ]
+    }
+  },
+  {
+    "ingredient": {
+      "cas_number": "9003-05-8",
+      "created_at": "2013-04-03T00:44:52-04:00",
+      "id": 30,
+      "inci_name": "",
+      "more_info": null,
+      "name": "POLYACRYLAMIDE",
+      "organic": false,
+      "pubmed_count": 0,
+      "pubmed_term": "",
+      "updated_at": "2014-05-19T14:58:37-04:00",
+      "ingredient_alias_names": [
+        "HOMOPOLYMER",
+        "HOMOPOLYMER 2-PROPENAMIDE",
+        "PAA",
+        "POLYACRYLAMIDE",
+        "STYRENE ACRYLAMIDE COPOLYMER"
+      ],
+      "usage": "Used as a thickening and suspending agent, this ingredient dries to form a thin coating over the skin which aids in moisture absorption and retaining tan-care. Concerns have been raised that polyacrylamide used in agriculture may contaminate food with acrylamide. While polyacrylamide itself is relatively non-toxic, it is known that commercially available polyacrylamide contains minute residual amounts of acrylamide remaining from its production, usually less than 0.05% w/w. California requires (current as of 2010) products containing acrylamide as an ingredient to be labeled with a statement that it is \"a chemical known to the State of California to cause cancer.\"",
+      "explanation": null,
+      "notes": "ACRYLAMIDE HOMOPOLYMER\r\n\r\n\r\nAs is often the case, polyacrylamide is made up of repeating molecules of acrylamide, and the toxicity properties of the poly version change. A similar example is the case of vinyl chloride (a carcinogen) and polyvinyl chloride.\r\n \r\nIn both of these cases, the basic compound (also called the monomer, if that’s of interest) has serious health concerns, while the polymer does not have health concerns in finished products UNLESS the monomer breaks down. This can happen, and some forms of polyacrylamide are more stable than others and therefore less likely to slough off the bad chemical. I would bet that the labels do not clarify whether the more or less stable version is used. Another concern is that someone has to turn the monomer into a polymer, and those worker exposures are concerning.\r\n \r\nFor Think Dirty, it would be better to score polyacrylamide separately from acrylamide and list acrylamide as a contaminant – it’s more accurate.",
+      "hazards": [
+        {
+          "benefit": false,
+          "created_at": "2014-05-14T13:29:14-04:00",
+          "id": 73,
+          "name": "Low concerns if use under concentration restricted",
+          "rating": 1,
+          "short_name": "LC",
+          "updated_at": "2014-05-14T13:49:53-04:00"
+        },
+        {
+          "benefit": false,
+          "created_at": "2014-05-19T14:56:46-04:00",
+          "id": 82,
+          "name": "Contaminate with acrylamide",
+          "rating": 3,
+          "short_name": "Contaminate with acrylamide",
+          "updated_at": "2014-05-19T16:00:37-04:00"
+        }
+      ],
+      "warning_agencies": [
+        {
+          "created_at": "2013-02-27T01:40:33-05:00",
+          "id": 2,
+          "jurisdiction": "EU",
+          "link": null,
+          "name": "Limit use by EU Coslng",
+          "short_name": "LEU",
+          "updated_at": "2013-04-26T11:27:18-04:00"
+        },
+        {
+          "created_at": "2013-03-31T17:29:27-04:00",
+          "id": 7,
+          "jurisdiction": "Canada",
+          "link": "http://www.ec.gc.ca/lcpe-cepa/eng/substance/chemicals_polymers.cfm",
+          "name": "Environment Canada Domestic Substance List",
+          "short_name": "ECDSL",
+          "updated_at": "2014-04-11T22:44:38-04:00"
+        }
+      ],
+      "sources": [
+        {
+          "created_at": "2013-03-05T02:06:26-05:00",
+          "id": 9,
+          "link": null,
+          "name": "PubMed Studies",
+          "short_name": "PM",
+          "updated_at": "2013-03-05T02:06:26-05:00"
+        },
+        {
+          "created_at": "2014-05-19T15:41:32-04:00",
+          "id": 187,
+          "link": "http://www.ncbi.nlm.nih.gov/m/pubmed/16154914/",
+          "name": "Int J Toxicol. 2005;24 Suppl 2:21-50. Amended final report on the safety assessment of polyacrylamide and acrylamide residues in cosmetics.",
+          "short_name": "Amended final report on the safety assessment of polyacrylamide and acrylamide residues in cosmetics.",
+          "updated_at": "2014-05-19T15:41:32-04:00"
+        },
+        {
+          "created_at": "2014-07-09T14:33:47-04:00",
+          "id": 235,
+          "link": "https://www.wholefoodsmarket.com/premium-body-care-unacceptable-ingredients",
+          "name": "Whole Foods Market Premium Body Care Standards Unacceptable Ingredients",
+          "short_name": "Whole Foods Market Premium Body Care Standards Unacceptable Ingredients",
+          "updated_at": "2018-05-09T11:13:48-04:00"
+        }
+      ]
+    }
+  }
+]

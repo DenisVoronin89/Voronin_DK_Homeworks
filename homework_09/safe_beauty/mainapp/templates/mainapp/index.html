@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ingredients List</title>
+</head>
+<body>
+    <h1>Ingredients List</h1>
+    <ul>
+        {% for ingredient in ingredients %}
+        <li>
+            {{ ingredient.name }}
+        </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
