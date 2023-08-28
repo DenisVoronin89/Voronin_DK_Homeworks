@@ -15,6 +15,6 @@
 python manage.py test mainapp.tests_views
 python manage.py test mainapp.tests_models
  
-либо python manage.py test mainapp.tests   
+либо  python manage.py test mainapp.tests   
 
 Успешное выполнение каждого теста отображается в консоли.
