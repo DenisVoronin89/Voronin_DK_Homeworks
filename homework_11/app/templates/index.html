@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+
+{% block title %}
+  Home
+{% endblock %}
+
+{% block body %}
+ <h1 class=text-primary>
+  Welcome to my project!
+</h1>
+
+<div class="mt-5">
+  <p class="fs-4 text-white">Go to the users list:</p>
+  <ul>
+    <li>
+      <a href="{{ url_for('users_app.list') }}" class="fs-5 text-info text-decoration-underline">
+        Users
+      </a>
+    </li>
+  </ul>
+</div>
+{% endblock %}

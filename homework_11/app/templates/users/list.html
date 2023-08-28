@@ -1,0 +1,41 @@
+{% extends 'users/users-base.html' %}
+
+{% block title %}
+  Users list
+{% endblock %}
+
+{% block body %}
+  <h1 class="text-primary"> Users:</h1>
+    {% if search %}
+      <h3>Results for search <code>{{ search }}</code>:</h3>
+      <h4><a class="btn btn-outline-info"
+           href="{{ request.path }}">Clear search</a></h4>
+    {% endif %}
+  <div>
+    <ul class="list-group">
+      {% for user in users %}
+        <li class="list-group-item">
+          <a
+            data-bs-toggle="tooltip"
+            data-bs-placement="top"
+            data-bs-title="{{ user.short_description }}"
+            class="user slide-in text-decoration-none"
+            href="{{ url_for('users_app.details', user_id=user.id) }}">
+            {{ user.name }}
+          </a>
+          <a class="btn btn-sm btn-danger float-end"
+             href="{{ url_for('users_app.delete', user_id=user.id) }}">
+            Delete
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div>
+    <a href="{{ url_for('users_app.create') }}">Create a new user</a>
+  </div>
+
+{% endblock %}
+
+
