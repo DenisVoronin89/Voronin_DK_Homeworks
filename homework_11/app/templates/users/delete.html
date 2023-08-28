@@ -1,5 +1,7 @@
 {% extends 'users/users-base.html' %}
 
+{% from 'macros/form-errors-list.html' import form_errors_list %}
+
 {% block title %}
   Delete user #{{ user.id }}
 {% endblock %}
@@ -8,6 +10,7 @@
   <h2 class="text-decoration-underline text-danger">Are you sure you want to delete this user: {{ user.name }}?</h2>
 
   <form method="post">
+      {{ form.csrf_token }}
     <button class="btn btn-danger btn-sm" type="submit">Delete</button>
   </form>
   <div>

@@ -6,6 +6,11 @@
 
 {% block body %}
   <h1 class="text-primary"> Users:</h1>
+    {% if search %}
+      <h3>Results for search <code>{{ search }}</code>:</h3>
+      <h4><a class="btn btn-outline-info"
+           href="{{ request.path }}">Clear search</a></h4>
+    {% endif %}
   <div>
     <ul class="list-group">
       {% for user in users %}
@@ -32,3 +37,5 @@
   </div>
 
 {% endblock %}
+
+
